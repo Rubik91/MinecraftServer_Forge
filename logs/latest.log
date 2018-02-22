@@ -1,0 +1,50 @@
+[18:53:52] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[18:53:52] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Das Handle ist ungültig
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_161]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_161]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_161]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_161]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_161]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_161]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_161]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_161]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_161]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_161]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_161]
+	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:105) [nz$2.class:?]
+[18:54:00] [Server thread/INFO]: Loading properties
+[18:54:00] [Server thread/INFO]: Default game type: SURVIVAL
+[18:54:00] [Server thread/INFO]: Generating keypair
+[18:54:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:54:01] [Server thread/INFO]: Using default channel type
+[18:54:04] [Server thread/INFO]: Preparing level "world"
+[18:54:06] [Server thread/INFO]: Loaded 488 advancements
+[18:54:06] [Server thread/INFO]: Preparing start region for level 0
+[18:54:08] [Server thread/INFO]: Preparing spawn area: 0%
+[18:54:10] [Server thread/INFO]: Preparing spawn area: 0%
+[18:54:11] [Server thread/INFO]: Preparing spawn area: 11%
+[18:54:12] [Server thread/INFO]: Preparing spawn area: 31%
+[18:54:13] [Server thread/INFO]: Preparing spawn area: 64%
+[18:54:14] [Server thread/INFO]: Preparing spawn area: 95%
+[18:54:14] [Server thread/INFO]: Done (11,200s)! For help, type "help" or "?"
+[18:54:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2085ms behind, skipping 41 tick(s)
+[18:55:20] [User Authenticator #1/INFO]: UUID of player TromDrop is ffbe6d82-9633-46f7-9ec2-6f3a10c5a96a
+[18:55:22] [Server thread/INFO]: TromDrop[/25.92.198.51:53945] logged in with entity id 364 at (165.9341556535793, 63.0, 463.903946069278)
+[18:55:22] [Server thread/INFO]: TromDrop joined the game
+[18:55:25] [User Authenticator #2/INFO]: UUID of player Commander_FU is 48064de9-07cd-4bf2-853e-fc6195ca5196
+[18:55:26] [Server thread/INFO]: Commander_FU[/25.73.101.46:58546] logged in with entity id 788 at (277.69999998807907, 72.0, 343.60797034223174)
+[18:55:26] [Server thread/INFO]: Commander_FU joined the game
+[18:55:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2973ms behind, skipping 59 tick(s)
+[18:56:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9095ms behind, skipping 181 tick(s)
+[18:57:40] [Server thread/INFO]: Commander_FU lost connection: Disconnected
+[18:57:40] [Server thread/INFO]: Commander_FU left the game
+[18:57:42] [Server thread/INFO]: Stopping the server
+[18:57:42] [Server thread/INFO]: Stopping server
+[18:57:42] [Server thread/INFO]: Saving players
+[18:57:43] [Server thread/INFO]: Saving worlds
+[18:57:43] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[18:57:43] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[18:57:43] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[18:57:44] [Server Shutdown Thread/INFO]: Stopping server
+[18:57:44] [Server Shutdown Thread/INFO]: Saving players

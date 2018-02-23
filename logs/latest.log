@@ -1,67 +1,87 @@
-[00:08:03] [Server thread/INFO]: TromDrop lost connection: Disconnected
-[00:08:03] [Server thread/INFO]: TromDrop left the game
-[00:11:38] [Server thread/WARN]: Commander_FU moved too quickly! 178.5641698263596,7.0,372.10374524853967
-[00:16:24] [Server thread/INFO]: Waxaan has made the advancement [Diamonds!]
-[00:24:07] [Server thread/WARN]: Boat moved wrongly!
-[00:24:07] [Server thread/WARN]: Boat moved wrongly!
-[00:24:07] [Server thread/WARN]: Boat moved wrongly!
-[00:24:07] [Server thread/WARN]: Boat moved wrongly!
-[00:24:07] [Server thread/WARN]: Boat moved wrongly!
-[00:24:07] [Server thread/WARN]: Boat moved wrongly!
-[00:24:07] [Server thread/WARN]: Boat moved wrongly!
-[00:34:10] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
-[00:49:37] [Server thread/WARN]: Commander_FU moved wrongly!
-[00:50:22] [Server thread/INFO]: Leatch has made the advancement [Take Aim]
-[00:51:24] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
-[01:06:58] [Server thread/INFO]: Leatch lost connection: Disconnected
-[01:06:58] [Server thread/INFO]: Leatch left the game
-[01:07:07] [User Authenticator #11/INFO]: UUID of player Leatch is 377b93ce-e63e-431c-9587-0a24cacc275e
-[01:07:10] [Server thread/INFO]: Leatch lost connection: Disconnected
-[01:07:10] [Server thread/INFO]: Leatch left the game
-[01:07:27] [User Authenticator #12/INFO]: UUID of player Leatch is 377b93ce-e63e-431c-9587-0a24cacc275e
-[01:07:31] [Server thread/INFO]: Leatch[/25.69.116.75:57213] logged in with entity id 525164 at (156.72194811809197, 62.0, 370.53113855707335)
-[01:07:31] [Server thread/INFO]: Leatch joined the game
-[01:27:42] [Server thread/INFO]: Waxaan has made the advancement [Ice Bucket Challenge]
-[01:57:51] [Server thread/INFO]: Leatch lost connection: Disconnected
-[01:57:51] [Server thread/INFO]: Leatch left the game
-[02:07:03] [Server thread/INFO]: Waxaan lost connection: Disconnected
-[02:07:03] [Server thread/INFO]: Waxaan left the game
-[02:08:13] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
-[02:09:36] [Server thread/INFO]: Commander_FU has made the advancement [Best Friends Forever]
-[02:11:40] [Server thread/WARN]: Boat moved wrongly!
-[02:13:07] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
-[02:17:06] [Server thread/WARN]: Horse moved wrongly!
-[02:17:06] [Server thread/WARN]: Horse moved wrongly!
-[02:17:06] [Server thread/WARN]: Horse moved wrongly!
-[02:17:07] [Server thread/WARN]: Horse moved wrongly!
-[02:17:07] [Server thread/WARN]: Horse moved wrongly!
-[02:17:07] [Server thread/WARN]: Horse moved wrongly!
-[02:17:07] [Server thread/WARN]: Horse moved wrongly!
-[02:17:07] [Server thread/WARN]: Horse moved wrongly!
-[02:17:07] [Server thread/WARN]: Horse moved wrongly!
-[02:17:07] [Server thread/WARN]: Horse moved wrongly!
-[02:17:09] [Server thread/WARN]: Horse moved wrongly!
-[02:17:10] [Server thread/WARN]: Horse moved wrongly!
-[02:17:10] [Server thread/WARN]: Horse moved wrongly!
-[02:17:10] [Server thread/WARN]: Horse moved wrongly!
-[02:17:10] [Server thread/WARN]: Horse moved wrongly!
-[02:17:12] [Server thread/WARN]: Horse moved wrongly!
-[02:17:22] [Server thread/WARN]: Horse moved wrongly!
-[02:17:30] [Server thread/WARN]: Horse moved wrongly!
-[02:17:30] [Server thread/WARN]: Horse moved wrongly!
-[02:17:30] [Server thread/WARN]: Horse moved wrongly!
-[02:17:30] [Server thread/WARN]: Horse moved wrongly!
-[02:17:30] [Server thread/WARN]: Horse moved wrongly!
-[02:17:30] [Server thread/WARN]: Horse moved wrongly!
-[02:17:31] [Server thread/WARN]: Horse moved wrongly!
-[02:17:31] [Server thread/WARN]: Horse moved wrongly!
-[03:32:33] [Server thread/INFO]: Commander_FU lost connection: Disconnected
-[03:32:33] [Server thread/INFO]: Commander_FU left the game
-[03:32:39] [Server thread/INFO]: Stopping server
-[03:32:39] [Server thread/INFO]: Saving players
-[03:32:39] [Server thread/INFO]: Saving worlds
-[03:32:39] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[03:32:39] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[03:32:39] [Server Shutdown Thread/INFO]: Stopping server
-[03:32:39] [Server Shutdown Thread/INFO]: Saving players
-[03:32:39] [Server Shutdown Thread/INFO]: Saving worlds
+[13:51:07] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[13:51:07] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Das Handle ist ungültig
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_161]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_161]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_161]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_161]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_161]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_161]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_161]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_161]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_161]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_161]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_161]
+	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:105) [nz$2.class:?]
+[13:51:11] [Server thread/INFO]: Loading properties
+[13:51:11] [Server thread/INFO]: Default game type: SURVIVAL
+[13:51:11] [Server thread/INFO]: Generating keypair
+[13:51:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:51:11] [Server thread/INFO]: Using default channel type
+[13:51:12] [Server thread/INFO]: Preparing level "world"
+[13:51:14] [Server thread/INFO]: Loaded 488 advancements
+[13:51:14] [Server thread/INFO]: Preparing start region for level 0
+[13:51:16] [Server thread/INFO]: Preparing spawn area: 0%
+[13:51:17] [Server thread/INFO]: Preparing spawn area: 30%
+[13:51:18] [Server thread/INFO]: Preparing spawn area: 99%
+[13:51:18] [Server thread/INFO]: Done (5,312s)! For help, type "help" or "?"
+[13:55:33] [User Authenticator #1/INFO]: UUID of player TromDrop is ffbe6d82-9633-46f7-9ec2-6f3a10c5a96a
+[13:55:34] [Server thread/INFO]: TromDrop[/25.92.198.51:55946] logged in with entity id 410 at (265.09958118416387, 8.0, 500.62871895083475)
+[13:55:34] [Server thread/INFO]: TromDrop joined the game
+[13:55:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2009ms behind, skipping 40 tick(s)
+[14:04:40] [Server thread/INFO]: TromDrop lost connection: Disconnected
+[14:04:40] [Server thread/INFO]: TromDrop left the game
+[14:49:23] [User Authenticator #2/INFO]: UUID of player TromDrop is ffbe6d82-9633-46f7-9ec2-6f3a10c5a96a
+[14:49:24] [Server thread/INFO]: TromDrop[/25.92.198.51:56018] logged in with entity id 6901 at (262.4443807010582, 8.0, 505.1101175326455)
+[14:49:24] [Server thread/INFO]: TromDrop joined the game
+[14:49:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2430ms behind, skipping 48 tick(s)
+[15:30:02] [Server thread/INFO]: Opped TromDrop
+[15:30:11] [Server thread/INFO]: [TromDrop: Set own game mode to Survival Mode]
+[15:30:24] [Server thread/INFO]: Opped TromDrop
+[15:30:36] [Server thread/INFO]: Set TromDrop's game mode to Creative Mode
+[15:57:11] [Server thread/INFO]: Set TromDrop's game mode to Survival Mode
+[16:03:37] [User Authenticator #3/INFO]: UUID of player Berserk1337 is 8137fa34-aca0-4afd-8f61-359748a301e1
+[16:03:38] [Server thread/INFO]: Berserk1337[/25.76.151.182:51167] logged in with entity id 51125 at (216.5, 68.0, 253.5)
+[16:03:38] [Server thread/INFO]: Berserk1337 joined the game
+[16:06:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2521ms behind, skipping 50 tick(s)
+[16:06:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2032ms behind, skipping 40 tick(s)
+[16:06:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2016ms behind, skipping 40 tick(s)
+[16:07:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3129ms behind, skipping 62 tick(s)
+[16:07:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2207ms behind, skipping 44 tick(s)
+[16:07:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5651ms behind, skipping 113 tick(s)
+[16:08:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2043ms behind, skipping 40 tick(s)
+[16:08:09] [Server thread/INFO]: TromDrop lost connection: Timed out
+[16:08:09] [Server thread/INFO]: TromDrop left the game
+[16:08:22] [User Authenticator #4/INFO]: UUID of player TromDrop is ffbe6d82-9633-46f7-9ec2-6f3a10c5a96a
+[16:08:23] [Server thread/INFO]: TromDrop[/25.92.198.51:56345] logged in with entity id 60117 at (178.95923864570284, 62.07326432466507, 464.28676535438973)
+[16:08:23] [Server thread/INFO]: TromDrop joined the game
+[16:08:24] [Server thread/INFO]: Berserk1337 lost connection: Internal Exception: java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+[16:08:24] [Server thread/INFO]: Berserk1337 left the game
+[16:08:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4110ms behind, skipping 82 tick(s)
+[16:08:41] [Server thread/INFO]: TromDrop lost connection: Timed out
+[16:08:41] [Server thread/INFO]: TromDrop left the game
+[16:08:42] [User Authenticator #5/INFO]: UUID of player Berserk1337 is 8137fa34-aca0-4afd-8f61-359748a301e1
+[16:08:43] [Server thread/INFO]: Berserk1337[/25.76.151.182:51175] logged in with entity id 60463 at (176.74538187274757, 62.07326432466507, 464.75794067044325)
+[16:08:43] [Server thread/INFO]: Berserk1337 joined the game
+[16:09:10] [User Authenticator #6/INFO]: UUID of player TromDrop is ffbe6d82-9633-46f7-9ec2-6f3a10c5a96a
+[16:09:12] [Server thread/INFO]: TromDrop[/25.92.198.51:56351] logged in with entity id 60879 at (178.95923864570284, 62.07326432466507, 464.28676535438973)
+[16:09:12] [Server thread/INFO]: TromDrop joined the game
+[16:09:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2956ms behind, skipping 59 tick(s)
+[16:09:28] [Server thread/WARN]: TromDrop moved too quickly! -9.896678558706725,-0.003016261509046103,-2.857506066360429
+[16:09:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11940ms behind, skipping 238 tick(s)
+[16:09:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5512ms behind, skipping 110 tick(s)
+[16:10:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2881ms behind, skipping 57 tick(s)
+[16:10:12] [Server thread/INFO]: TromDrop lost connection: Timed out
+[16:10:12] [Server thread/INFO]: TromDrop left the game
+[16:10:36] [Server thread/INFO]: Stopping the server
+[16:10:36] [Server thread/INFO]: Stopping server
+[16:10:36] [Server thread/INFO]: Saving players
+[16:10:36] [Server thread/INFO]: Saving worlds
+[16:10:36] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[16:10:37] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[16:10:37] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[16:10:37] [Server Shutdown Thread/INFO]: Stopping server
+[16:10:37] [Server Shutdown Thread/INFO]: Saving players
+[16:10:37] [Server Shutdown Thread/INFO]: Berserk1337 lost connection: Server closed
+[16:10:37] [Server Shutdown Thread/INFO]: Berserk1337 left the game
+[16:10:37] [Server Shutdown Thread/INFO]: Saving worlds

@@ -1,87 +1,259 @@
-[13:51:07] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[13:51:07] [Server console handler/ERROR]: Exception handling console input
+[16:15:03] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[16:15:03] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: Das Handle ist ungültig
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_161]
-	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_161]
-	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_161]
-	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_161]
-	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_161]
-	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_161]
-	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_161]
-	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_161]
-	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_161]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_161]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_161]
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_151]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_151]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_151]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_151]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_151]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_151]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_151]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_151]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_151]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_151]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_151]
 	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:105) [nz$2.class:?]
-[13:51:11] [Server thread/INFO]: Loading properties
-[13:51:11] [Server thread/INFO]: Default game type: SURVIVAL
-[13:51:11] [Server thread/INFO]: Generating keypair
-[13:51:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:51:11] [Server thread/INFO]: Using default channel type
-[13:51:12] [Server thread/INFO]: Preparing level "world"
-[13:51:14] [Server thread/INFO]: Loaded 488 advancements
-[13:51:14] [Server thread/INFO]: Preparing start region for level 0
-[13:51:16] [Server thread/INFO]: Preparing spawn area: 0%
-[13:51:17] [Server thread/INFO]: Preparing spawn area: 30%
-[13:51:18] [Server thread/INFO]: Preparing spawn area: 99%
-[13:51:18] [Server thread/INFO]: Done (5,312s)! For help, type "help" or "?"
-[13:55:33] [User Authenticator #1/INFO]: UUID of player TromDrop is ffbe6d82-9633-46f7-9ec2-6f3a10c5a96a
-[13:55:34] [Server thread/INFO]: TromDrop[/25.92.198.51:55946] logged in with entity id 410 at (265.09958118416387, 8.0, 500.62871895083475)
-[13:55:34] [Server thread/INFO]: TromDrop joined the game
-[13:55:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2009ms behind, skipping 40 tick(s)
-[14:04:40] [Server thread/INFO]: TromDrop lost connection: Disconnected
-[14:04:40] [Server thread/INFO]: TromDrop left the game
-[14:49:23] [User Authenticator #2/INFO]: UUID of player TromDrop is ffbe6d82-9633-46f7-9ec2-6f3a10c5a96a
-[14:49:24] [Server thread/INFO]: TromDrop[/25.92.198.51:56018] logged in with entity id 6901 at (262.4443807010582, 8.0, 505.1101175326455)
-[14:49:24] [Server thread/INFO]: TromDrop joined the game
-[14:49:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2430ms behind, skipping 48 tick(s)
-[15:30:02] [Server thread/INFO]: Opped TromDrop
-[15:30:11] [Server thread/INFO]: [TromDrop: Set own game mode to Survival Mode]
-[15:30:24] [Server thread/INFO]: Opped TromDrop
-[15:30:36] [Server thread/INFO]: Set TromDrop's game mode to Creative Mode
-[15:57:11] [Server thread/INFO]: Set TromDrop's game mode to Survival Mode
-[16:03:37] [User Authenticator #3/INFO]: UUID of player Berserk1337 is 8137fa34-aca0-4afd-8f61-359748a301e1
-[16:03:38] [Server thread/INFO]: Berserk1337[/25.76.151.182:51167] logged in with entity id 51125 at (216.5, 68.0, 253.5)
-[16:03:38] [Server thread/INFO]: Berserk1337 joined the game
-[16:06:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2521ms behind, skipping 50 tick(s)
-[16:06:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2032ms behind, skipping 40 tick(s)
-[16:06:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2016ms behind, skipping 40 tick(s)
-[16:07:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3129ms behind, skipping 62 tick(s)
-[16:07:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2207ms behind, skipping 44 tick(s)
-[16:07:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5651ms behind, skipping 113 tick(s)
-[16:08:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2043ms behind, skipping 40 tick(s)
-[16:08:09] [Server thread/INFO]: TromDrop lost connection: Timed out
-[16:08:09] [Server thread/INFO]: TromDrop left the game
-[16:08:22] [User Authenticator #4/INFO]: UUID of player TromDrop is ffbe6d82-9633-46f7-9ec2-6f3a10c5a96a
-[16:08:23] [Server thread/INFO]: TromDrop[/25.92.198.51:56345] logged in with entity id 60117 at (178.95923864570284, 62.07326432466507, 464.28676535438973)
-[16:08:23] [Server thread/INFO]: TromDrop joined the game
-[16:08:24] [Server thread/INFO]: Berserk1337 lost connection: Internal Exception: java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen
-[16:08:24] [Server thread/INFO]: Berserk1337 left the game
-[16:08:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4110ms behind, skipping 82 tick(s)
-[16:08:41] [Server thread/INFO]: TromDrop lost connection: Timed out
-[16:08:41] [Server thread/INFO]: TromDrop left the game
-[16:08:42] [User Authenticator #5/INFO]: UUID of player Berserk1337 is 8137fa34-aca0-4afd-8f61-359748a301e1
-[16:08:43] [Server thread/INFO]: Berserk1337[/25.76.151.182:51175] logged in with entity id 60463 at (176.74538187274757, 62.07326432466507, 464.75794067044325)
-[16:08:43] [Server thread/INFO]: Berserk1337 joined the game
-[16:09:10] [User Authenticator #6/INFO]: UUID of player TromDrop is ffbe6d82-9633-46f7-9ec2-6f3a10c5a96a
-[16:09:12] [Server thread/INFO]: TromDrop[/25.92.198.51:56351] logged in with entity id 60879 at (178.95923864570284, 62.07326432466507, 464.28676535438973)
-[16:09:12] [Server thread/INFO]: TromDrop joined the game
-[16:09:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2956ms behind, skipping 59 tick(s)
-[16:09:28] [Server thread/WARN]: TromDrop moved too quickly! -9.896678558706725,-0.003016261509046103,-2.857506066360429
-[16:09:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 11940ms behind, skipping 238 tick(s)
-[16:09:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5512ms behind, skipping 110 tick(s)
-[16:10:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2881ms behind, skipping 57 tick(s)
-[16:10:12] [Server thread/INFO]: TromDrop lost connection: Timed out
-[16:10:12] [Server thread/INFO]: TromDrop left the game
-[16:10:36] [Server thread/INFO]: Stopping the server
-[16:10:36] [Server thread/INFO]: Stopping server
-[16:10:36] [Server thread/INFO]: Saving players
-[16:10:36] [Server thread/INFO]: Saving worlds
-[16:10:36] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[16:10:37] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[16:10:37] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[16:10:37] [Server Shutdown Thread/INFO]: Stopping server
-[16:10:37] [Server Shutdown Thread/INFO]: Saving players
-[16:10:37] [Server Shutdown Thread/INFO]: Berserk1337 lost connection: Server closed
-[16:10:37] [Server Shutdown Thread/INFO]: Berserk1337 left the game
-[16:10:37] [Server Shutdown Thread/INFO]: Saving worlds
+[16:15:06] [Server thread/INFO]: Loading properties
+[16:15:06] [Server thread/INFO]: Default game type: SURVIVAL
+[16:15:06] [Server thread/INFO]: Generating keypair
+[16:15:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:15:07] [Server thread/INFO]: Using default channel type
+[16:15:08] [Server thread/INFO]: Preparing level "world"
+[16:15:09] [Server thread/INFO]: Loaded 533 advancements
+[16:15:10] [Server thread/INFO]: Preparing start region for level 0
+[16:15:11] [Server thread/INFO]: Preparing spawn area: 19%
+[16:15:12] [Server thread/INFO]: Preparing spawn area: 91%
+[16:15:12] [Server thread/INFO]: Done (3,498s)! For help, type "help" or "?"
+[16:15:34] [User Authenticator #1/INFO]: UUID of player Leatch is 377b93ce-e63e-431c-9587-0a24cacc275e
+[16:15:35] [Server thread/INFO]: Leatch[/127.0.0.1:59715] logged in with entity id 394 at (148.70860905739218, 62.0, 355.1184712577079)
+[16:15:35] [Server thread/INFO]: Leatch joined the game
+[16:15:35] [User Authenticator #2/INFO]: UUID of player TromDrop is ffbe6d82-9633-46f7-9ec2-6f3a10c5a96a
+[16:15:36] [Server thread/INFO]: TromDrop lost connection: Mod rejections [FMLMod:buildcraftcore{7.99.14}, FMLMod:buildcraftlib{7.99.14}, FMLMod:buildcraftbuilders{7.99.14}, FMLMod:buildcraftenergy{7.99.14}, FMLMod:buildcraftrobotics{7.99.14}, FMLMod:buildcraftsilicon{7.99.14}, FMLMod:buildcraftfactory{7.99.14}, FMLMod:buildcrafttransport{7.99.14}]
+[16:15:36] [Server thread/INFO]: TromDrop left the game
+[16:15:54] [User Authenticator #3/INFO]: UUID of player TromDrop is ffbe6d82-9633-46f7-9ec2-6f3a10c5a96a
+[16:15:54] [Server thread/INFO]: TromDrop lost connection: Mod rejections [FMLMod:buildcraftcore{7.99.14}, FMLMod:buildcraftlib{7.99.14}, FMLMod:buildcraftbuilders{7.99.14}, FMLMod:buildcraftenergy{7.99.14}, FMLMod:buildcraftrobotics{7.99.14}, FMLMod:buildcraftsilicon{7.99.14}, FMLMod:buildcraftfactory{7.99.14}, FMLMod:buildcrafttransport{7.99.14}]
+[16:15:54] [Server thread/INFO]: TromDrop left the game
+[16:16:08] [User Authenticator #4/INFO]: UUID of player Berserk1337 is 8137fa34-aca0-4afd-8f61-359748a301e1
+[16:16:09] [Server thread/INFO]: Berserk1337[/25.76.151.182:51273] logged in with entity id 946 at (154.46411639860005, 66.0, 474.9384826137791)
+[16:16:09] [Server thread/INFO]: Berserk1337 joined the game
+[16:16:20] [User Authenticator #5/INFO]: UUID of player TromDrop is ffbe6d82-9633-46f7-9ec2-6f3a10c5a96a
+[16:16:20] [Server thread/INFO]: TromDrop lost connection: Mod rejections [FMLMod:buildcraftcore{7.99.14}, FMLMod:buildcraftlib{7.99.14}, FMLMod:buildcraftbuilders{7.99.14}, FMLMod:buildcraftenergy{7.99.14}, FMLMod:buildcraftrobotics{7.99.14}, FMLMod:buildcraftsilicon{7.99.14}, FMLMod:buildcraftfactory{7.99.14}, FMLMod:buildcrafttransport{7.99.14}]
+[16:16:20] [Server thread/INFO]: TromDrop left the game
+[16:17:04] [User Authenticator #6/INFO]: UUID of player Waxaan is e267da31-dfcf-47ad-bd9d-f84e8899ea64
+[16:17:06] [Server thread/INFO]: Waxaan[/25.81.222.229:51228] logged in with entity id 2370 at (118.42511304665857, 65.0, 423.99580826994736)
+[16:17:06] [Server thread/INFO]: Waxaan joined the game
+[16:21:02] [User Authenticator #7/INFO]: UUID of player TromDrop is ffbe6d82-9633-46f7-9ec2-6f3a10c5a96a
+[16:21:06] [Server thread/INFO]: TromDrop[/25.92.198.51:56623] logged in with entity id 6292 at (149.3492906311536, 63.0, 456.58498171954153)
+[16:21:06] [Server thread/INFO]: TromDrop joined the game
+[16:21:11] [Server thread/INFO]: Waxaan lost connection: Disconnected
+[16:21:11] [Server thread/INFO]: Waxaan left the game
+[16:21:20] [User Authenticator #8/INFO]: UUID of player Waxaan is e267da31-dfcf-47ad-bd9d-f84e8899ea64
+[16:21:21] [Server thread/INFO]: Waxaan[/25.81.222.229:51249] logged in with entity id 6619 at (121.27190774882726, 65.0, 424.2571435241444)
+[16:21:21] [Server thread/INFO]: Waxaan joined the game
+[16:23:25] [Server thread/INFO]: Waxaan lost connection: Disconnected
+[16:23:25] [Server thread/INFO]: Waxaan left the game
+[16:25:01] [User Authenticator #9/INFO]: UUID of player Waxaan is e267da31-dfcf-47ad-bd9d-f84e8899ea64
+[16:25:02] [Server thread/INFO]: Waxaan[/25.81.222.229:51339] logged in with entity id 9453 at (118.07499998807907, 64.0, 447.1288468440506)
+[16:25:02] [Server thread/INFO]: Waxaan joined the game
+[16:40:09] [Server thread/INFO]: Berserk1337 has made the advancement [Monster Hunter]
+[16:44:42] [Server thread/INFO]: Berserk1337 has made the advancement [Stone Age]
+[17:02:51] [Server thread/INFO]: Berserk1337 has made the advancement [Getting an Upgrade]
+[17:04:54] [Server thread/INFO]: TromDrop lost connection: Disconnected
+[17:04:54] [Server thread/INFO]: TromDrop left the game
+[17:05:11] [User Authenticator #10/INFO]: UUID of player TromDrop is ffbe6d82-9633-46f7-9ec2-6f3a10c5a96a
+[17:05:14] [Server thread/INFO]: TromDrop[/25.92.198.51:56703] logged in with entity id 68046 at (252.6466580588276, 63.0, -159.09999179719048)
+[17:05:14] [Server thread/INFO]: TromDrop joined the game
+[17:08:13] [Server thread/INFO]: TromDrop lost connection: Disconnected
+[17:08:13] [Server thread/INFO]: TromDrop left the game
+[17:08:25] [User Authenticator #11/INFO]: UUID of player TromDrop is ffbe6d82-9633-46f7-9ec2-6f3a10c5a96a
+[17:08:28] [Server thread/INFO]: TromDrop[/25.92.198.51:56714] logged in with entity id 76370 at (365.9905614007445, 67.0, -514.7232071356641)
+[17:08:28] [Server thread/INFO]: TromDrop joined the game
+[17:10:39] [Server thread/INFO]: Leatch lost connection: Disconnected
+[17:10:39] [Server thread/INFO]: Leatch left the game
+[17:11:58] [Server thread/INFO]: TromDrop lost connection: Timed out
+[17:11:58] [Server thread/INFO]: TromDrop left the game
+[17:23:17] [Server thread/INFO]: Berserk1337 has made the advancement [Sweet dreams]
+[17:23:54] [User Authenticator #12/INFO]: UUID of player Leatch is 377b93ce-e63e-431c-9587-0a24cacc275e
+[17:23:55] [Server thread/INFO]: Leatch[/127.0.0.1:60665] logged in with entity id 97952 at (159.04474344220228, 62.0, 368.1909375562332)
+[17:23:55] [Server thread/INFO]: Leatch joined the game
+[17:34:52] [Server thread/INFO]: Leatch lost connection: Disconnected
+[17:34:52] [Server thread/INFO]: Leatch left the game
+[17:36:04] [User Authenticator #13/INFO]: UUID of player Leatch is 377b93ce-e63e-431c-9587-0a24cacc275e
+[17:36:04] [Server thread/INFO]: Leatch[/127.0.0.1:60741] logged in with entity id 119576 at (158.739808489348, 62.0, 371.6558847011395)
+[17:36:04] [Server thread/INFO]: Leatch joined the game
+[17:42:38] [User Authenticator #14/INFO]: UUID of player TromDrop is ffbe6d82-9633-46f7-9ec2-6f3a10c5a96a
+[17:42:41] [Server thread/INFO]: TromDrop[/25.92.198.51:56990] logged in with entity id 127685 at (206.8463787836492, 70.0, -579.8455880576439)
+[17:42:41] [Server thread/INFO]: TromDrop joined the game
+[17:45:54] [Server thread/INFO]: Berserk1337 was blown up by Creeper
+[17:46:32] [Server thread/INFO]: Leatch lost connection: Disconnected
+[17:46:32] [Server thread/INFO]: Leatch left the game
+[17:46:33] [Server thread/INFO]: TromDrop lost connection: Disconnected
+[17:46:33] [Server thread/INFO]: TromDrop left the game
+[17:49:59] [User Authenticator #15/INFO]: UUID of player Leatch is 377b93ce-e63e-431c-9587-0a24cacc275e
+[17:50:00] [Server thread/INFO]: Leatch[/127.0.0.1:61131] logged in with entity id 140505 at (154.15216771971967, 62.0, 359.73231328656107)
+[17:50:00] [Server thread/INFO]: Leatch joined the game
+[17:50:15] [Server thread/INFO]: Berserk1337 has made the advancement [A Seedy Place]
+[17:51:44] [User Authenticator #16/INFO]: UUID of player TromDrop is ffbe6d82-9633-46f7-9ec2-6f3a10c5a96a
+[17:51:47] [Server thread/INFO]: TromDrop[/25.92.198.51:57089] logged in with entity id 144294 at (209.32277579329715, 75.0, -576.4915354852176)
+[17:51:47] [Server thread/INFO]: TromDrop joined the game
+[17:52:28] [Server thread/INFO]: TromDrop lost connection: Disconnected
+[17:52:28] [Server thread/INFO]: TromDrop left the game
+[17:53:07] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[17:54:00] [User Authenticator #17/INFO]: UUID of player TromDrop is ffbe6d82-9633-46f7-9ec2-6f3a10c5a96a
+[17:54:04] [Server thread/INFO]: TromDrop[/25.92.198.51:57155] logged in with entity id 151336 at (209.32277579329715, 75.0, -576.4915354852176)
+[17:54:04] [Server thread/INFO]: TromDrop joined the game
+[17:55:11] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[17:55:47] [Server thread/INFO]: TromDrop has made the advancement [advancements.buildcraftenergy.sticky_dipping.title]
+[18:09:55] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[18:11:33] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[18:12:12] [Server thread/INFO]: Leatch lost connection: Disconnected
+[18:12:12] [Server thread/INFO]: Leatch left the game
+[18:22:38] [User Authenticator #18/INFO]: UUID of player Leatch is 377b93ce-e63e-431c-9587-0a24cacc275e
+[18:22:39] [Server thread/INFO]: Leatch[/127.0.0.1:61440] logged in with entity id 225940 at (160.69029758164245, 59.0, 367.55461164088314)
+[18:22:39] [Server thread/INFO]: Leatch joined the game
+[18:25:20] [Server thread/WARN]: TromDrop moved wrongly!
+[18:31:18] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[18:35:52] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[18:58:17] [Server thread/INFO]: Berserk1337 has made the advancement [Acquire Hardware]
+[18:58:37] [Server thread/INFO]: Berserk1337 has made the advancement [Isn't It Iron Pick]
+[19:01:52] [Server thread/INFO]: Waxaan lost connection: Disconnected
+[19:01:52] [Server thread/INFO]: Waxaan left the game
+[19:28:08] [Server thread/INFO]: Berserk1337 has made the advancement [Diamonds!]
+[19:45:55] [User Authenticator #19/INFO]: UUID of player Commander_FU is 48064de9-07cd-4bf2-853e-fc6195ca5196
+[19:45:55] [Server thread/INFO]: Commander_FU lost connection: Mod rejections [FMLMod:buildcraftcore{7.99.14}, FMLMod:buildcraftlib{7.99.14}, FMLMod:buildcraftbuilders{7.99.14}, FMLMod:buildcraftenergy{7.99.14}, FMLMod:buildcraftrobotics{7.99.14}, FMLMod:buildcraftsilicon{7.99.14}, FMLMod:buildcraftfactory{7.99.14}, FMLMod:buildcrafttransport{7.99.14}]
+[19:45:55] [Server thread/INFO]: Commander_FU left the game
+[19:48:40] [User Authenticator #20/INFO]: UUID of player Commander_FU is 48064de9-07cd-4bf2-853e-fc6195ca5196
+[19:48:40] [Server thread/INFO]: Commander_FU lost connection: Mod rejections [FMLMod:buildcraftcore{7.99.14}, FMLMod:buildcraftlib{7.99.14}, FMLMod:buildcraftbuilders{7.99.14}, FMLMod:buildcraftenergy{7.99.14}, FMLMod:buildcraftrobotics{7.99.14}, FMLMod:buildcraftsilicon{7.99.14}, FMLMod:buildcraftfactory{7.99.14}, FMLMod:buildcrafttransport{7.99.14}]
+[19:48:40] [Server thread/INFO]: Commander_FU left the game
+[19:50:50] [User Authenticator #21/INFO]: UUID of player Commander_FU is 48064de9-07cd-4bf2-853e-fc6195ca5196
+[19:50:51] [Server thread/INFO]: Commander_FU[/25.73.101.46:63651] logged in with entity id 369478 at (271.5681961178745, 73.0, 397.10599128512956)
+[19:50:51] [Server thread/INFO]: Commander_FU joined the game
+[19:56:34] [User Authenticator #22/INFO]: UUID of player Waxaan is e267da31-dfcf-47ad-bd9d-f84e8899ea64
+[19:56:35] [Server thread/INFO]: Waxaan[/25.81.222.229:51990] logged in with entity id 379074 at (121.2892169675699, 65.0, 428.561279744359)
+[19:56:35] [Server thread/INFO]: Waxaan joined the game
+[20:00:34] [Server thread/WARN]: Qualityhorse moved wrongly!
+[20:00:34] [Server thread/WARN]: Qualityhorse moved wrongly!
+[20:00:34] [Server thread/WARN]: Qualityhorse moved wrongly!
+[20:00:34] [Server thread/WARN]: Qualityhorse moved wrongly!
+[20:01:04] [Server thread/INFO]: TromDrop lost connection: Disconnected
+[20:01:04] [Server thread/INFO]: TromDrop left the game
+[20:03:49] [Server thread/WARN]: Qualityhorse (vehicle of Commander_FU) moved too quickly! -5.188367733933461,-0.48889898586944724,-8.563761437255664
+[20:03:49] [Server thread/WARN]: Qualityhorse (vehicle of Commander_FU) moved too quickly! -5.659617069595839,-0.48889898586944724,-8.667593662477998
+[20:03:49] [Server thread/WARN]: Qualityhorse (vehicle of Commander_FU) moved too quickly! -6.129832107356833,-0.48889898586944724,-8.793084609732944
+[20:03:49] [Server thread/WARN]: Qualityhorse (vehicle of Commander_FU) moved too quickly! -6.5897698260849324,-0.48889898586944724,-8.955294070259981
+[20:03:49] [Server thread/WARN]: Qualityhorse (vehicle of Commander_FU) moved too quickly! -7.042423301503305,-0.48889898586944724,-9.140969543575807
+[20:03:49] [Server thread/WARN]: Qualityhorse (vehicle of Commander_FU) moved too quickly! -7.485152587332507,-0.48889898586944724,-9.350912735409906
+[20:03:49] [Server thread/WARN]: Qualityhorse (vehicle of Commander_FU) moved too quickly! -7.910254814173854,-0.48889898586944724,-9.593704109029886
+[20:03:49] [Server thread/WARN]: Qualityhorse (vehicle of Commander_FU) moved too quickly! -8.291602310240847,-0.48889898586944724,-9.893204693479902
+[20:03:49] [Server thread/WARN]: Qualityhorse (vehicle of Commander_FU) moved too quickly! -8.599339324880901,-0.48889898586944724,-10.257641621144614
+[20:03:49] [Server thread/WARN]: Qualityhorse (vehicle of Commander_FU) moved too quickly! -8.827003631892381,-0.48889898586944724,-10.672806261258756
+[20:03:49] [Server thread/WARN]: Qualityhorse (vehicle of Commander_FU) moved too quickly! -8.983747903066998,-0.48889898586944724,-11.121271880842073
+[20:03:49] [Server thread/WARN]: Qualityhorse (vehicle of Commander_FU) moved too quickly! -9.075696810231847,0.5111010141305528,-11.59009268114903
+[20:03:49] [Server thread/WARN]: Qualityhorse (vehicle of Commander_FU) moved too quickly! -9.101839808541087,0.5111010141305528,-12.0687839264437
+[20:03:49] [Server thread/WARN]: Qualityhorse (vehicle of Commander_FU) moved too quickly! -9.058569695436049,0.5111010141305528,-12.546646369303744
+[20:03:49] [Server thread/WARN]: Qualityhorse moved wrongly!
+[20:03:49] [Server thread/WARN]: Qualityhorse moved wrongly!
+[20:03:49] [Server thread/WARN]: Qualityhorse moved wrongly!
+[20:03:49] [Server thread/WARN]: Qualityhorse moved wrongly!
+[20:03:49] [Server thread/WARN]: Qualityhorse moved wrongly!
+[20:03:49] [Server thread/WARN]: Qualityhorse moved wrongly!
+[20:03:49] [Server thread/WARN]: Qualityhorse moved wrongly!
+[20:03:49] [Server thread/WARN]: Qualityhorse moved wrongly!
+[20:03:49] [Server thread/WARN]: Qualityhorse moved wrongly!
+[20:03:49] [Server thread/WARN]: Qualityhorse moved wrongly!
+[20:03:49] [Server thread/WARN]: Qualityhorse moved wrongly!
+[20:03:49] [Server thread/WARN]: Qualityhorse moved wrongly!
+[20:03:49] [Server thread/WARN]: Qualityhorse moved wrongly!
+[20:03:49] [Server thread/WARN]: Qualityhorse moved wrongly!
+[20:03:49] [Server thread/WARN]: Qualityhorse moved wrongly!
+[20:03:50] [Server thread/WARN]: Qualityhorse moved wrongly!
+[20:03:50] [Server thread/WARN]: Qualityhorse moved wrongly!
+[20:03:50] [Server thread/WARN]: Qualityhorse moved wrongly!
+[20:03:50] [Server thread/WARN]: Qualityhorse moved wrongly!
+[20:03:50] [Server thread/WARN]: Qualityhorse moved wrongly!
+[20:03:50] [Server thread/WARN]: Qualityhorse moved wrongly!
+[20:03:50] [Server thread/WARN]: Qualityhorse moved wrongly!
+[20:03:50] [Server thread/WARN]: Qualityhorse (vehicle of Commander_FU) moved too quickly! 5.4913485580567,5.0,-6.8877804961729225
+[20:03:50] [Server thread/WARN]: Qualityhorse (vehicle of Commander_FU) moved too quickly! 5.973528441088149,5.0,-6.879778300665635
+[20:03:50] [Server thread/WARN]: Qualityhorse (vehicle of Commander_FU) moved too quickly! 6.4558089165612955,5.0,-6.867494289888953
+[20:09:33] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[20:09:56] [Server thread/INFO]: Commander_FU lost connection: Disconnected
+[20:09:56] [Server thread/INFO]: Commander_FU left the game
+[20:17:17] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[20:17:27] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[20:19:06] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[20:22:20] [Server thread/WARN]: Boat moved wrongly!
+[20:30:33] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[20:30:57] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[20:47:48] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[20:58:14] [Server thread/INFO]: Leatch has made the advancement [advancements.buildcraftcore.engine.title]
+[20:58:48] [Server thread/INFO]: Leatch has made the advancement [advancements.buildcraftcore.freePowar.title]
+[21:01:53] [Server thread/INFO]: Waxaan lost connection: Disconnected
+[21:01:53] [Server thread/INFO]: Waxaan left the game
+[21:01:58] [User Authenticator #23/INFO]: UUID of player Waxaan is e267da31-dfcf-47ad-bd9d-f84e8899ea64
+[21:02:00] [Server thread/INFO]: Waxaan[/25.81.222.229:52179] logged in with entity id 503012 at (115.73657147656549, 64.0, 455.07499998807907)
+[21:02:00] [Server thread/INFO]: Waxaan joined the game
+[21:02:56] [User Authenticator #24/INFO]: UUID of player Commander_FU is 48064de9-07cd-4bf2-853e-fc6195ca5196
+[21:02:57] [Server thread/INFO]: Commander_FU[/25.73.101.46:64373] logged in with entity id 503912 at (265.42398644312294, 74.0, 389.0955278924203)
+[21:02:57] [Server thread/INFO]: Commander_FU joined the game
+[21:09:33] [Server thread/INFO]: Berserk1337 has made the advancement [The Parrots and the Bats]
+[21:20:55] [Server thread/INFO]: Berserk1337 has made the advancement [Take Aim]
+[21:26:33] [Server thread/WARN]: Berserk1337 moved wrongly!
+[21:29:55] [Server thread/INFO]: Commander_FU lost connection: Disconnected
+[21:29:55] [Server thread/INFO]: Commander_FU left the game
+[21:57:22] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[22:02:57] [User Authenticator #25/INFO]: UUID of player Commander_FU is 48064de9-07cd-4bf2-853e-fc6195ca5196
+[22:02:57] [Server thread/INFO]: Commander_FU[/25.73.101.46:64597] logged in with entity id 607812 at (270.953968400434, 73.0, 401.4869750135443)
+[22:02:57] [Server thread/INFO]: Commander_FU joined the game
+[22:08:04] [Server thread/INFO]: Commander_FU lost connection: Disconnected
+[22:08:04] [Server thread/INFO]: Commander_FU left the game
+[22:09:13] [User Authenticator #26/INFO]: UUID of player Commander_FU is 48064de9-07cd-4bf2-853e-fc6195ca5196
+[22:09:13] [Server thread/INFO]: Commander_FU[/25.73.101.46:64636] logged in with entity id 621999 at (273.0586910982186, 73.0, 402.1993027235878)
+[22:09:13] [Server thread/INFO]: Commander_FU joined the game
+[22:10:37] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[22:10:42] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[22:11:03] [Server thread/INFO]: Leatch lost connection: Disconnected
+[22:11:03] [Server thread/INFO]: Leatch left the game
+[22:11:27] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[22:14:46] [User Authenticator #27/INFO]: UUID of player Leatch is 377b93ce-e63e-431c-9587-0a24cacc275e
+[22:14:46] [Server thread/INFO]: Leatch[/127.0.0.1:62228] logged in with entity id 635578 at (159.33070115479973, 62.0, 371.69999998807907)
+[22:14:46] [Server thread/INFO]: Leatch joined the game
+[22:31:47] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[22:37:15] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[22:37:42] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[22:47:02] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[22:49:00] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[22:49:42] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[22:49:52] [Server thread/INFO]: Leatch lost connection: Disconnected
+[22:49:52] [Server thread/INFO]: Leatch left the game
+[22:52:39] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[22:58:13] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[22:58:42] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[23:07:54] [Server thread/INFO]: Berserk1337 has made the advancement [Ice Bucket Challenge]
+[23:08:01] [Server thread/INFO]: Commander_FU lost connection: Disconnected
+[23:08:01] [Server thread/INFO]: Commander_FU left the game
+[23:09:13] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[23:18:39] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[23:18:57] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[23:27:07] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[23:30:10] [Server thread/WARN]: Berserk1337 moved too quickly! 0.480469474258868,4.5,8.977283172267562
+[23:35:53] [Server thread/INFO]: Berserk1337 lost connection: Disconnected
+[23:35:53] [Server thread/INFO]: Berserk1337 left the game
+[23:38:25] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[23:39:12] [Server thread/WARN]: Keeping entity minecraft:villager that already exists with UUID cd7f8fa6-1d4e-4338-9390-13adef03f2c4
+[23:39:32] [User Authenticator #28/INFO]: UUID of player Leatch is 377b93ce-e63e-431c-9587-0a24cacc275e
+[23:39:33] [Server thread/INFO]: Leatch[/127.0.0.1:62658] logged in with entity id 812918 at (161.91110457971018, 62.0, 371.620070185468)
+[23:39:33] [Server thread/INFO]: Leatch joined the game
+[23:40:23] [Server thread/INFO]: Leatch lost connection: Disconnected
+[23:40:23] [Server thread/INFO]: Leatch left the game
+[23:49:04] [Server thread/INFO]: Waxaan lost connection: Disconnected
+[23:49:04] [Server thread/INFO]: Waxaan left the game
+[23:49:32] [Server thread/INFO]: Stopping the server
+[23:49:32] [Server thread/INFO]: Stopping server
+[23:49:32] [Server thread/INFO]: Saving players
+[23:49:32] [Server thread/INFO]: Saving worlds
+[23:49:32] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[23:49:32] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[23:49:33] [Server Shutdown Thread/INFO]: Stopping server
+[23:49:33] [Server Shutdown Thread/INFO]: Saving players
+[23:49:33] [Server Shutdown Thread/INFO]: Saving worlds

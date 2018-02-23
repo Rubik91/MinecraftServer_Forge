@@ -983,6 +983,12 @@
     },
     "done": true
   },
+  "buildcraftcore:root": {
+    "criteria": {
+      "has_stick": "2018-02-23 21:02:57 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2018-02-17 19:06:49 +0100"

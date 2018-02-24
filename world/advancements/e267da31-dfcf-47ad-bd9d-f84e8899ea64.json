@@ -345,6 +345,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2018-02-24 20:28:08 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2018-02-18 19:37:36 +0100"
@@ -812,6 +818,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2018-02-24 20:28:06 +0100",
       "magma_cube": "2018-02-20 20:38:35 +0100",
       "skeleton": "2018-02-19 20:51:13 +0100",
       "zombie": "2018-02-20 10:43:48 +0100",

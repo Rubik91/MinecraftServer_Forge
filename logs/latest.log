@@ -1,72 +1,37 @@
-[08:57:06] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[08:57:06] [Server console handler/ERROR]: Exception handling console input
+[11:28:53] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[11:28:53] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: Das Handle ist ungültig
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_151]
-	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_151]
-	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_151]
-	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_151]
-	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_151]
-	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_151]
-	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_151]
-	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_151]
-	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_151]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_151]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_151]
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_161]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_161]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_161]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_161]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_161]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_161]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_161]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_161]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_161]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_161]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_161]
 	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:105) [nz$2.class:?]
-[08:57:11] [Server thread/INFO]: Loading properties
-[08:57:11] [Server thread/INFO]: Default game type: SURVIVAL
-[08:57:11] [Server thread/INFO]: Generating keypair
-[08:57:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[08:57:11] [Server thread/INFO]: Using default channel type
-[08:57:13] [Server thread/INFO]: Preparing level "world"
-[08:57:14] [Server thread/INFO]: Loaded 533 advancements
-[08:57:15] [Server thread/INFO]: Preparing start region for level 0
-[08:57:16] [Server thread/INFO]: Preparing spawn area: 12%
-[08:57:17] [Server thread/INFO]: Preparing spawn area: 64%
-[08:57:17] [Server thread/INFO]: Done (4,417s)! For help, type "help" or "?"
-[09:05:02] [User Authenticator #1/INFO]: UUID of player Waxaan is e267da31-dfcf-47ad-bd9d-f84e8899ea64
-[09:05:03] [Server thread/INFO]: Waxaan[/25.81.222.229:55902] logged in with entity id 310 at (117.39123757998551, 69.0625, 419.8012856051184)
-[09:05:03] [Server thread/INFO]: Waxaan joined the game
-[09:07:23] [User Authenticator #2/INFO]: UUID of player Leatch is 377b93ce-e63e-431c-9587-0a24cacc275e
-[09:07:24] [Server thread/INFO]: Leatch[/127.0.0.1:51027] logged in with entity id 2599 at (264.30000001192093, 56.0, 529.1454939677046)
-[09:07:24] [Server thread/INFO]: Leatch joined the game
-[09:15:00] [Server thread/WARN]: Waxaan moved too quickly! 178.48383240138327,7.0,372.2242513860042
-[09:15:48] [Server thread/INFO]: Set the time to 1000
-[09:31:10] [Server thread/WARN]: Waxaan moved too quickly! 178.89470718602809,7.0,371.60793920903694
-[09:38:55] [Server thread/INFO]: Set the time to 1000
-[09:40:09] [Server thread/WARN]: Boat moved wrongly!
-[09:40:09] [Server thread/WARN]: Boat moved wrongly!
-[09:40:09] [Server thread/WARN]: Boat moved wrongly!
-[09:40:09] [Server thread/WARN]: Boat moved wrongly!
-[09:40:09] [Server thread/WARN]: Boat moved wrongly!
-[09:40:10] [Server thread/WARN]: Boat moved wrongly!
-[09:40:10] [Server thread/WARN]: Boat moved wrongly!
-[09:40:10] [Server thread/WARN]: Boat moved wrongly!
-[09:40:10] [Server thread/WARN]: Boat moved wrongly!
-[09:40:10] [Server thread/WARN]: Boat moved wrongly!
-[09:40:10] [Server thread/WARN]: Boat moved wrongly!
-[09:40:10] [Server thread/WARN]: Boat moved wrongly!
-[09:40:10] [Server thread/WARN]: Boat moved wrongly!
-[09:40:10] [Server thread/WARN]: Boat moved wrongly!
-[09:40:10] [Server thread/WARN]: Boat moved wrongly!
-[09:40:10] [Server thread/WARN]: Boat moved wrongly!
-[09:40:10] [Server thread/WARN]: Boat moved wrongly!
-[09:47:59] [Server thread/INFO]: Set the time to 1000
-[10:12:14] [Server thread/INFO]: Waxaan has made the advancement [Suit Up]
-[10:12:32] [Server thread/INFO]: Leatch has made the advancement [Suit Up]
-[10:14:31] [Server thread/INFO]: Set the time to 1000
-[11:01:42] [Server thread/INFO]: Set the time to 1000
-[11:13:44] [Server thread/WARN]: Boat moved wrongly!
-[11:14:18] [Server thread/INFO]: Waxaan lost connection: Disconnected
-[11:14:18] [Server thread/INFO]: Waxaan left the game
-[11:14:23] [Server thread/INFO]: Leatch lost connection: Disconnected
-[11:14:23] [Server thread/INFO]: Leatch left the game
-[11:14:35] [Server thread/INFO]: Stopping the server
-[11:14:36] [Server thread/INFO]: Stopping server
-[11:14:36] [Server thread/INFO]: Saving players
-[11:14:36] [Server thread/INFO]: Saving worlds
-[11:14:36] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[11:14:36] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[11:14:36] [Server Shutdown Thread/INFO]: Stopping server
-[11:14:36] [Server Shutdown Thread/INFO]: Saving players
-[11:14:36] [Server Shutdown Thread/INFO]: Saving worlds
+[11:29:05] [Server thread/INFO]: Loading properties
+[11:29:05] [Server thread/INFO]: Default game type: SURVIVAL
+[11:29:05] [Server thread/INFO]: Generating keypair
+[11:29:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:29:05] [Server thread/INFO]: Using default channel type
+[11:29:09] [Server thread/INFO]: Preparing level "world"
+[11:29:12] [Server thread/INFO]: Loaded 533 advancements
+[11:29:12] [Server thread/INFO]: Preparing start region for level 0
+[11:29:13] [Server thread/INFO]: Preparing spawn area: 0%
+[11:29:15] [Server thread/INFO]: Preparing spawn area: 28%
+[11:29:16] [Server thread/INFO]: Preparing spawn area: 49%
+[11:29:16] [Server thread/INFO]: Done (6,982s)! For help, type "help" or "?"
+[11:31:50] [Server thread/INFO]: Stopping the server
+[11:31:50] [Server thread/INFO]: Stopping server
+[11:31:50] [Server thread/INFO]: Saving players
+[11:31:50] [Server thread/INFO]: Saving worlds
+[11:31:50] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[11:31:51] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[11:31:51] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[11:31:51] [Server Shutdown Thread/INFO]: Stopping server
+[11:31:51] [Server Shutdown Thread/INFO]: Saving players
+[11:31:51] [Server Shutdown Thread/INFO]: Saving worlds

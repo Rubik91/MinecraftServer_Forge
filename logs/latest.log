@@ -1,5 +1,5 @@
-[20:23:52] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[20:23:52] [Server console handler/ERROR]: Exception handling console input
+[21:20:22] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[21:20:22] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: Das Handle ist ungültig
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_161]
 	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_161]
@@ -13,24 +13,64 @@ java.io.IOException: Das Handle ist ungültig
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_161]
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_161]
 	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:105) [nz$2.class:?]
-[20:24:04] [Server thread/INFO]: Loading properties
-[20:24:04] [Server thread/INFO]: Default game type: SURVIVAL
-[20:24:04] [Server thread/INFO]: Generating keypair
-[20:24:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:24:04] [Server thread/INFO]: Using default channel type
-[20:24:08] [Server thread/INFO]: Preparing level "world"
-[20:24:11] [Server thread/INFO]: Loaded 533 advancements
-[20:24:11] [Server thread/INFO]: Preparing start region for level 0
-[20:24:12] [Server thread/INFO]: Preparing spawn area: 0%
-[20:24:14] [Server thread/INFO]: Preparing spawn area: 26%
-[20:24:15] [Server thread/INFO]: Preparing spawn area: 59%
-[20:24:15] [Server thread/INFO]: Done (7,806s)! For help, type "help" or "?"
-[20:25:08] [Server thread/INFO]: Stopping server
-[20:25:08] [Server thread/INFO]: Saving players
-[20:25:08] [Server thread/INFO]: Saving worlds
-[20:25:08] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[20:25:08] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[20:25:08] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[20:25:08] [Server Shutdown Thread/INFO]: Stopping server
-[20:25:08] [Server Shutdown Thread/INFO]: Saving players
-[20:25:08] [Server Shutdown Thread/INFO]: Saving worlds
+[21:20:49] [Server thread/INFO]: Loading properties
+[21:20:50] [Server thread/INFO]: Default game type: SURVIVAL
+[21:20:50] [Server thread/INFO]: Generating keypair
+[21:20:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:20:50] [Server thread/INFO]: Using default channel type
+[21:20:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:20:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:20:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:20:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:20:57] [Server thread/INFO]: Preparing level "world"
+[21:21:02] [Server thread/INFO]: Loaded 533 advancements
+[21:21:02] [Server thread/INFO]: Preparing start region for level 0
+[21:21:04] [Server thread/INFO]: Preparing spawn area: 0%
+[21:21:05] [Server thread/INFO]: Preparing spawn area: 1%
+[21:21:06] [Server thread/INFO]: Preparing spawn area: 32%
+[21:21:07] [Server thread/INFO]: Preparing spawn area: 58%
+[21:21:08] [Server thread/INFO]: Preparing spawn area: 73%
+[21:21:09] [Server thread/INFO]: Done (12,049s)! For help, type "help" or "?"
+[21:21:33] [Server thread/INFO]: TromDrop[/25.92.198.51:57193] logged in with entity id 315 at (217.5, 69.0, 259.5)
+[21:21:33] [Server thread/INFO]: TromDrop joined the game
+[21:21:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3520ms behind, skipping 70 tick(s)
+[21:22:09] [Server thread/INFO]: Opped TromDrop
+[21:22:11] [Server thread/INFO]: Leatch[/25.69.116.75:54325] logged in with entity id 1375 at (220.5, 68.0, 255.5)
+[21:22:11] [Server thread/INFO]: Leatch joined the game
+[21:22:21] [Server thread/INFO]: [TromDrop: Set own game mode to Creative Mode]
+[21:22:38] [Server thread/WARN]: TromDrop moved too quickly! -7.535269576452237,0.3298248521514324,6.919043645643228
+[21:22:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2023ms behind, skipping 40 tick(s)
+[21:22:51] [Server thread/WARN]: TromDrop moved too quickly! -9.093621796040352,-1.4950660194469805,4.2142988360520235
+[21:22:59] [Server thread/INFO]: [TromDrop: Set Leatch's game mode to Creative Mode]
+[21:23:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 19130ms behind, skipping 382 tick(s)
+[21:23:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4397ms behind, skipping 87 tick(s)
+[21:23:39] [Server thread/WARN]: Leatch moved too quickly! 8.836705497101548,0.0,-4.942649527508593
+[21:23:42] [Server thread/WARN]: Leatch moved too quickly! 7.029864469575159,0.0,-7.44380363853179
+[21:23:49] [Server thread/WARN]: Leatch moved too quickly! 8.308746629714278,0.0,-6.357396535122632
+[21:24:15] [Server thread/WARN]: Leatch moved too quickly! 6.733857196333815,0.0,-7.852495539612335
+[21:24:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 39886ms behind, skipping 797 tick(s)
+[21:24:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2957ms behind, skipping 59 tick(s)
+[21:24:29] [Server thread/WARN]: Leatch moved too quickly! 9.560953188382769,0.0,-3.816670695259461
+[21:24:40] [Server thread/WARN]: Leatch moved too quickly! 6.885989945199526,0.0,-7.624751251110098
+[21:24:40] [Server thread/WARN]: TromDrop moved too quickly! -4.589376555733821,-4.382367469824231,8.019740576471577
+[21:24:45] [Server thread/WARN]: TromDrop moved too quickly! 5.609914292147735,0.0,8.769000060869928
+[21:24:49] [Server thread/WARN]: TromDrop moved too quickly! 9.879482221086846,2.019772174681563,-2.4875082969779214
+[21:24:57] [Server thread/WARN]: TromDrop moved too quickly! 9.855635452084101,1.859380497490406,0.23599899916337108
+[21:25:00] [Server thread/WARN]: TromDrop moved too quickly! 10.368325630077294,0.0,1.0311405363197537
+[21:25:10] [Server thread/INFO]: Berserk1337[/25.76.151.182:53305] logged in with entity id 9617 at (225.5, 67.0, 257.5)
+[21:25:10] [Server thread/INFO]: Berserk1337 joined the game
+[21:25:18] [Server thread/WARN]: TromDrop moved too quickly! -9.357563476824652,1.713744068098066,4.562360070774446
+[21:25:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 44816ms behind, skipping 896 tick(s)
+[21:25:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4896ms behind, skipping 97 tick(s)
+[21:26:13] [Server thread/WARN]: TromDrop moved too quickly! -9.692945614486518,-1.1741021281562212,-2.4081548530717782
+[21:26:16] [Server thread/WARN]: TromDrop moved too quickly! -7.869224154932098,-0.033137257355164706,-6.2605739236061595
+[21:26:20] [Server thread/WARN]: TromDrop moved too quickly! -9.939357358370955,1.4950660194469805,-2.751004399511828
+[21:26:30] [Server thread/WARN]: TromDrop moved too quickly! -7.419623169171729,2.9986810144183096,-6.401865358679345
+[21:26:33] [Server thread/WARN]: TromDrop moved too quickly! -6.065811886951309,0.0,-8.198738442905267
+[21:26:41] [Server thread/WARN]: TromDrop moved too quickly! -5.9215277419190215,2.1791599956680017,-7.787591991288309
+[21:26:54] [Server thread/WARN]: Berserk1337 moved too quickly! -0.31632319247637497,3.0,9.896607041573418
+[21:27:04] [Server Watchdog/FATAL]: A single server tick took 60,28 seconds (should be max 0,05)
+[21:27:04] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[21:27:05] [Server Watchdog/ERROR]: This crash report has been saved to: C:\Users\Marvin\Documents\GitHub\MinecraftServer_Forge\.\crash-reports\crash-2018-02-25_21.27.05-server.txt
+[21:27:05] [Server Shutdown Thread/INFO]: Stopping server
+[21:27:05] [Server Shutdown Thread/INFO]: Saving players

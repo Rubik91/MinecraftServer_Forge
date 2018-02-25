@@ -1,5 +1,5 @@
-[17:23:46] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[17:23:46] [Server console handler/ERROR]: Exception handling console input
+[20:23:52] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[20:23:52] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: Das Handle ist ungültig
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_161]
 	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_161]
@@ -13,53 +13,24 @@ java.io.IOException: Das Handle ist ungültig
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_161]
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_161]
 	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:105) [nz$2.class:?]
-[17:23:55] [Server thread/INFO]: Loading properties
-[17:23:55] [Server thread/INFO]: Default game type: SURVIVAL
-[17:23:55] [Server thread/INFO]: Generating keypair
-[17:23:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:23:56] [Server thread/INFO]: Using default channel type
-[17:23:58] [Server thread/INFO]: Preparing level "world"
-[17:24:01] [Server thread/INFO]: Loaded 533 advancements
-[17:24:01] [Server thread/INFO]: Preparing start region for level 0
-[17:24:03] [Server thread/INFO]: Preparing spawn area: 0%
-[17:24:04] [Server thread/INFO]: Preparing spawn area: 30%
-[17:24:05] [Server thread/INFO]: Preparing spawn area: 62%
-[17:24:06] [Server thread/INFO]: Done (7,144s)! For help, type "help" or "?"
-[17:24:52] [User Authenticator #1/INFO]: UUID of player TromDrop is ffbe6d82-9633-46f7-9ec2-6f3a10c5a96a
-[17:24:54] [Server thread/INFO]: TromDrop[/25.92.198.51:55040] logged in with entity id 347 at (137.31591668945632, 64.0, 459.67585431815934)
-[17:24:54] [Server thread/INFO]: TromDrop joined the game
-[17:25:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7057ms behind, skipping 141 tick(s)
-[17:25:12] [Server thread/INFO]: TromDrop lost connection: Timed out
-[17:25:12] [Server thread/INFO]: TromDrop left the game
-[17:25:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2450ms behind, skipping 49 tick(s)
-[17:25:25] [User Authenticator #2/INFO]: UUID of player TromDrop is ffbe6d82-9633-46f7-9ec2-6f3a10c5a96a
-[17:25:26] [Server thread/INFO]: TromDrop[/25.92.198.51:55045] logged in with entity id 1075 at (137.31591668945632, 64.0, 459.67585431815934)
-[17:25:26] [Server thread/INFO]: TromDrop joined the game
-[17:25:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4207ms behind, skipping 84 tick(s)
-[17:25:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4742ms behind, skipping 94 tick(s)
-[17:26:36] [Server thread/INFO]: Set TromDrop's game mode to Creative Mode
-[17:26:51] [Server thread/WARN]: TromDrop moved too quickly! -10.122883518228718,-1.4917766593418662,-0.8792821935199981
-[17:32:55] [Server thread/WARN]: TromDrop moved too quickly! 0.09160580459639789,0.0,10.221665947372514
-[17:37:32] [Server thread/WARN]: TromDrop moved too quickly! -9.900605028425701,-2.6685043532705635,1.5961100643351074
-[17:39:10] [Server thread/INFO]: TromDrop has made the advancement [advancements.buildcraftcore.guide.title]
-[17:46:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2852ms behind, skipping 57 tick(s)
-[17:47:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6387ms behind, skipping 127 tick(s)
-[17:47:40] [Server thread/WARN]: TromDrop moved too quickly! 0.15919398660761885,-1.5594232648350896,10.38861433406413
-[17:54:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2028ms behind, skipping 40 tick(s)
-[17:55:52] [Server thread/WARN]: TromDrop moved too quickly! -5.9336112997302735,0.0,9.04173645894491
-[17:57:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2115ms behind, skipping 42 tick(s)
-[17:57:40] [Server thread/WARN]: TromDrop moved too quickly! 6.704112231018513,4.313234835430947,6.322441992202414
-[17:59:27] [Server thread/INFO]: Set TromDrop's game mode to Survival Mode
-[17:59:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2430ms behind, skipping 48 tick(s)
-[17:59:43] [Server thread/INFO]: TromDrop lost connection: Timed out
-[17:59:43] [Server thread/INFO]: TromDrop left the game
-[18:00:07] [Server thread/INFO]: Stopping the server
-[18:00:07] [Server thread/INFO]: Stopping server
-[18:00:07] [Server thread/INFO]: Saving players
-[18:00:07] [Server thread/INFO]: Saving worlds
-[18:00:07] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[18:00:08] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[18:00:08] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[18:00:08] [Server Shutdown Thread/INFO]: Stopping server
-[18:00:08] [Server Shutdown Thread/INFO]: Saving players
-[18:00:08] [Server Shutdown Thread/INFO]: Saving worlds
+[20:24:04] [Server thread/INFO]: Loading properties
+[20:24:04] [Server thread/INFO]: Default game type: SURVIVAL
+[20:24:04] [Server thread/INFO]: Generating keypair
+[20:24:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:24:04] [Server thread/INFO]: Using default channel type
+[20:24:08] [Server thread/INFO]: Preparing level "world"
+[20:24:11] [Server thread/INFO]: Loaded 533 advancements
+[20:24:11] [Server thread/INFO]: Preparing start region for level 0
+[20:24:12] [Server thread/INFO]: Preparing spawn area: 0%
+[20:24:14] [Server thread/INFO]: Preparing spawn area: 26%
+[20:24:15] [Server thread/INFO]: Preparing spawn area: 59%
+[20:24:15] [Server thread/INFO]: Done (7,806s)! For help, type "help" or "?"
+[20:25:08] [Server thread/INFO]: Stopping server
+[20:25:08] [Server thread/INFO]: Saving players
+[20:25:08] [Server thread/INFO]: Saving worlds
+[20:25:08] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[20:25:08] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[20:25:08] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[20:25:08] [Server Shutdown Thread/INFO]: Stopping server
+[20:25:08] [Server Shutdown Thread/INFO]: Saving players
+[20:25:08] [Server Shutdown Thread/INFO]: Saving worlds

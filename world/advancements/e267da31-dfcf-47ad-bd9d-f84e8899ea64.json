@@ -546,6 +546,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2018-02-25 10:12:14 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2018-02-23 00:16:24 +0100"
@@ -819,6 +825,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2018-02-24 20:28:06 +0100",
+      "zombie_villager": "2018-02-25 10:40:00 +0100",
       "magma_cube": "2018-02-20 20:38:35 +0100",
       "skeleton": "2018-02-19 20:51:13 +0100",
       "zombie": "2018-02-20 10:43:48 +0100",
@@ -901,6 +908,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2018-02-18 22:54:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2018-02-25 09:28:43 +0100"
     },
     "done": true
   },
@@ -1595,6 +1608,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2018-02-25 11:03:42 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2018-02-18 18:42:32 +0100"
@@ -1694,6 +1713,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-02-18 22:54:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2018-02-25 11:03:42 +0100"
     },
     "done": true
   },

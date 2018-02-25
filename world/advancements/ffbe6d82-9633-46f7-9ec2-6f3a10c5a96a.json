@@ -818,6 +818,12 @@
     },
     "done": true
   },
+  "buildcraftcore:guide": {
+    "criteria": {
+      "code_trigger": "2018-02-25 17:39:10 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2018-02-21 17:14:17 +0100"

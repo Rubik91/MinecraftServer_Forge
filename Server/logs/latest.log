@@ -1,5 +1,5 @@
-[15:21:42] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[15:21:42] [Server console handler/ERROR]: Exception handling console input
+[16:49:14] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[16:49:14] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: Das Handle ist ungültig
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_151]
 	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_151]
@@ -13,30 +13,136 @@ java.io.IOException: Das Handle ist ungültig
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_151]
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_151]
 	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:105) [nz$2.class:?]
-[15:21:53] [Server thread/INFO]: Loading properties
-[15:21:53] [Server thread/INFO]: Default game type: SURVIVAL
-[15:21:53] [Server thread/INFO]: Generating keypair
-[15:21:53] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:21:53] [Server thread/INFO]: Using default channel type
-[15:21:58] [Server thread/INFO]: Preparing level "world"
-[15:21:59] [Server thread/INFO]: Loaded 559 advancements
-[15:21:59] [Server thread/INFO]: Preparing start region for level 0
-[15:22:00] [Server thread/INFO]: Preparing spawn area: 2%
-[15:22:01] [Server thread/INFO]: Preparing spawn area: 74%
-[15:22:02] [Server thread/INFO]: Done (4,097s)! For help, type "help" or "?"
-[15:23:02] [User Authenticator #1/INFO]: UUID of player Leatch is 377b93ce-e63e-431c-9587-0a24cacc275e
-[15:23:03] [Server thread/INFO]: Leatch[/127.0.0.1:54611] logged in with entity id 375 at (255.026215533294, 85.0, 83.58696153793869)
-[15:23:03] [Server thread/INFO]: Leatch joined the game
-[15:23:39] [Server thread/INFO]: Leatch lost connection: Disconnected
-[15:23:39] [Server thread/INFO]: Leatch left the game
-[15:23:48] [Server thread/INFO]: Stopping the server
-[15:23:48] [Server thread/INFO]: Stopping server
-[15:23:48] [Server thread/INFO]: Saving players
-[15:23:48] [Server thread/INFO]: Saving worlds
-[15:23:48] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[15:23:48] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[15:23:48] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[15:23:48] [Server thread/INFO]: Saving chunks for level 'world'/Storage Cell
-[15:23:49] [Server Shutdown Thread/INFO]: Stopping server
-[15:23:49] [Server Shutdown Thread/INFO]: Saving players
-[15:23:49] [Server Shutdown Thread/INFO]: Saving worlds
+[16:49:28] [Server thread/INFO]: Loading properties
+[16:49:28] [Server thread/INFO]: Default game type: SURVIVAL
+[16:49:28] [Server thread/INFO]: Generating keypair
+[16:49:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:49:29] [Server thread/INFO]: Using default channel type
+[16:49:35] [Server thread/INFO]: Preparing level "world"
+[16:49:37] [Server thread/INFO]: Loaded 559 advancements
+[16:49:37] [Server thread/INFO]: Preparing start region for level 0
+[16:49:38] [Server thread/INFO]: Preparing spawn area: 0%
+[16:49:39] [Server thread/INFO]: Preparing spawn area: 49%
+[16:49:40] [Server thread/INFO]: Done (4,948s)! For help, type "help" or "?"
+[16:51:49] [User Authenticator #1/INFO]: UUID of player Berserk1337 is 8137fa34-aca0-4afd-8f61-359748a301e1
+[16:51:51] [Server thread/INFO]: Berserk1337[/25.76.151.182:50350] logged in with entity id 339 at (109.49340009551997, 64.0, 279.3263826398587)
+[16:51:51] [Server thread/INFO]: Berserk1337 joined the game
+[16:57:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@7f16d9d1[id=<null>,name=Leatch,properties={},legacy=false] (/127.0.0.1:55877) lost connection: Disconnected
+[16:57:27] [Server thread/INFO]: com.mojang.authlib.GameProfile@11c15893[id=<null>,name=Leatch,properties={},legacy=false] (/127.0.0.1:55880) lost connection: Internal Exception: java.io.IOException: Eine vorhandene Verbindung wurde vom Remotehost geschlossen
+[17:08:58] [User Authenticator #2/INFO]: UUID of player Leatch is 377b93ce-e63e-431c-9587-0a24cacc275e
+[17:08:59] [Server thread/INFO]: Leatch[/127.0.0.1:56051] logged in with entity id 15926 at (252.85627975248275, 85.0, 83.06842565597715)
+[17:08:59] [Server thread/INFO]: Leatch joined the game
+[17:40:37] [User Authenticator #3/INFO]: UUID of player TromDrop is ffbe6d82-9633-46f7-9ec2-6f3a10c5a96a
+[17:40:41] [Server thread/INFO]: TromDrop[/25.92.198.51:58563] logged in with entity id 54098 at (121.468549890131, 71.0, 101.33668860693396)
+[17:40:41] [Server thread/INFO]: TromDrop joined the game
+[17:41:26] [Server thread/INFO]: TromDrop lost connection: Disconnected
+[17:41:26] [Server thread/INFO]: TromDrop left the game
+[17:45:08] [User Authenticator #4/INFO]: UUID of player TromDrop is ffbe6d82-9633-46f7-9ec2-6f3a10c5a96a
+[17:45:12] [Server thread/INFO]: TromDrop[/25.92.198.51:58664] logged in with entity id 62455 at (121.468549890131, 71.0, 101.33668860693396)
+[17:45:12] [Server thread/INFO]: TromDrop joined the game
+[17:54:56] [Server thread/INFO]: Leatch was shot by Skeleton
+[17:55:36] [Server thread/INFO]: TromDrop has made the advancement [Monster Hunter]
+[18:05:18] [Server thread/INFO]: <Leatch> mav kommste noch in discord?
+[18:05:42] [Server thread/INFO]: <TromDrop> das weoß nur gott
+[18:05:49] [Server thread/INFO]: <Leatch> xD
+[18:07:31] [Server thread/INFO]: <Leatch> kannste pennen marvin?
+[18:07:34] [Server thread/INFO]: TromDrop lost connection: Disconnected
+[18:07:34] [Server thread/INFO]: TromDrop left the game
+[18:08:00] [User Authenticator #5/INFO]: UUID of player TromDrop is ffbe6d82-9633-46f7-9ec2-6f3a10c5a96a
+[18:08:04] [Server thread/INFO]: TromDrop[/25.92.198.51:58691] logged in with entity id 99636 at (125.30000001192097, 8.0, 124.8785947862448)
+[18:08:04] [Server thread/INFO]: TromDrop joined the game
+[18:08:09] [Server thread/INFO]: <Berserk1337> hx =)
+[18:18:29] [Server thread/INFO]: Leatch has made the advancement [A Seedy Place]
+[18:18:53] [Server thread/INFO]: <Leatch> schlafen?
+[18:29:16] [Server thread/INFO]: <TromDrop> bin ma afk essen
+[18:55:19] [Server thread/INFO]: Leatch lost connection: Disconnected
+[18:55:19] [Server thread/INFO]: Leatch left the game
+[18:57:33] [User Authenticator #6/INFO]: UUID of player Leatch is 377b93ce-e63e-431c-9587-0a24cacc275e
+[18:57:34] [Server thread/INFO]: Leatch[/127.0.0.1:56479] logged in with entity id 181222 at (53.38226938192516, 79.0, 217.2339697894452)
+[18:57:34] [Server thread/INFO]: Leatch joined the game
+[18:58:12] [Server thread/INFO]: <Berserk1337> mein pc kommt mti dem regen nich klar
+[18:58:18] [Server thread/INFO]: Changing to clear weather
+[19:43:14] [Server thread/INFO]: <Leatch> marvin bist du da?
+[19:43:21] [Server thread/INFO]: <TromDrop> ja
+[19:43:29] [Server thread/INFO]: <Leatch> schlafen bitte
+[19:43:32] [Server thread/INFO]: TromDrop lost connection: Disconnected
+[19:43:32] [Server thread/INFO]: TromDrop left the game
+[19:43:55] [User Authenticator #7/INFO]: UUID of player TromDrop is ffbe6d82-9633-46f7-9ec2-6f3a10c5a96a
+[19:43:59] [Server thread/INFO]: TromDrop[/25.92.198.51:59182] logged in with entity id 251546 at (123.12157381870344, 71.0, 101.3500558151451)
+[19:43:59] [Server thread/INFO]: TromDrop joined the game
+[19:44:35] [Server thread/INFO]: <Berserk1337> ICH HAB NE DRILL!
+[19:45:15] [Server thread/INFO]: <Berserk1337> MUHAH
+[19:46:54] [Server thread/INFO]: <Berserk1337> das ding is fett yo
+[19:57:50] [Server thread/INFO]: Leatch lost connection: Disconnected
+[19:57:50] [Server thread/INFO]: Leatch left the game
+[19:57:52] [Server thread/INFO]: <Berserk1337> diamond dril trololo
+[20:00:51] [User Authenticator #8/INFO]: UUID of player Leatch is 377b93ce-e63e-431c-9587-0a24cacc275e
+[20:00:52] [Server thread/INFO]: Leatch[/127.0.0.1:56832] logged in with entity id 278812 at (55.40310351645894, 81.0, 233.93866299621888)
+[20:00:52] [Server thread/INFO]: Leatch joined the game
+[20:09:47] [Server thread/INFO]: <TromDrop> wtf
+[20:09:53] [Server thread/INFO]: <Berserk1337> o.o
+[20:09:57] [Server thread/INFO]: <TromDrop> is das normal das die cooper adern so groß sind XD
+[20:10:03] [Server thread/INFO]: <TromDrop> 72
+[20:10:07] [Server thread/INFO]: <Berserk1337> du brauchst davon vieell
+[20:10:18] [Server thread/INFO]: <TromDrop> alta eine ader 72
+[20:10:25] [Server thread/INFO]: <Berserk1337> ok das is hart
+[20:19:31] [Server thread/INFO]: <Berserk1337> bin fest gebuggt
+[20:19:34] [Server thread/INFO]: Teleported Berserk1337 to Leatch
+[20:21:27] [Server thread/INFO]: <Berserk1337> so, jetz jatpack bauen :D
+[20:23:45] [Server thread/INFO]: TromDrop lost connection: Disconnected
+[20:23:45] [Server thread/INFO]: TromDrop left the game
+[20:32:08] [Server thread/INFO]: Berserk1337 has made the advancement [Ice Bucket Challenge]
+[20:35:45] [Server thread/INFO]: Leatch lost connection: Disconnected
+[20:35:45] [Server thread/INFO]: Leatch left the game
+[20:35:55] [User Authenticator #9/INFO]: UUID of player Leatch is 377b93ce-e63e-431c-9587-0a24cacc275e
+[20:35:55] [Server thread/INFO]: Leatch[/127.0.0.1:56960] logged in with entity id 331125 at (266.64736332795724, 82.0, 63.1448100399709)
+[20:35:55] [Server thread/INFO]: Leatch joined the game
+[20:37:58] [Server thread/INFO]: Leatch has made the advancement [We Need to Go Deeper]
+[20:37:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4383ms behind, skipping 87 tick(s)
+[20:37:58] [Server thread/WARN]: Leatch moved too quickly! -188.80000001192096,13.0,-84.65857595371719
+[20:38:21] [Server thread/INFO]: Berserk1337 has made the advancement [We Need to Go Deeper]
+[21:32:18] [Server thread/INFO]: Berserk1337 lost connection: Disconnected
+[21:32:18] [Server thread/INFO]: Berserk1337 left the game
+[21:32:20] [Server thread/INFO]: Leatch lost connection: Disconnected
+[21:32:20] [Server thread/INFO]: Leatch left the game
+[21:32:24] [User Authenticator #10/INFO]: UUID of player Leatch is 377b93ce-e63e-431c-9587-0a24cacc275e
+[21:32:24] [Server thread/INFO]: Leatch[/127.0.0.1:57101] logged in with entity id 419842 at (52.05709740114324, 79.0, 221.4154313067167)
+[21:32:24] [Server thread/INFO]: Leatch joined the game
+[21:32:33] [Server thread/INFO]: Leatch lost connection: Disconnected
+[21:32:33] [Server thread/INFO]: Leatch left the game
+[21:33:48] [User Authenticator #11/INFO]: UUID of player Leatch is 377b93ce-e63e-431c-9587-0a24cacc275e
+[21:33:49] [Server thread/INFO]: Leatch[/127.0.0.1:57220] logged in with entity id 419969 at (49.5, 79.0, 218.5)
+[21:33:49] [Server thread/INFO]: Leatch joined the game
+[21:34:42] [User Authenticator #12/INFO]: UUID of player Berserk1337 is 8137fa34-aca0-4afd-8f61-359748a301e1
+[21:34:43] [Server thread/INFO]: Berserk1337[/25.76.151.182:50782] logged in with entity id 420839 at (-375.0376610402248, 64.58230961125521, 109.81697742039272)
+[21:34:43] [Server thread/INFO]: Berserk1337 joined the game
+[21:34:49] [Server thread/INFO]: Berserk1337 was slain by Zombie Villager
+[21:50:13] [Server thread/INFO]: Leatch lost connection: Disconnected
+[21:50:13] [Server thread/INFO]: Leatch left the game
+[22:04:03] [User Authenticator #13/INFO]: UUID of player Leatch is 377b93ce-e63e-431c-9587-0a24cacc275e
+[22:04:03] [Server thread/INFO]: Leatch[/127.0.0.1:57354] logged in with entity id 465055 at (53.15565746059827, 79.0, 216.98230683670036)
+[22:04:03] [Server thread/INFO]: Leatch joined the game
+[22:08:54] [Server thread/INFO]: Leatch lost connection: Disconnected
+[22:08:54] [Server thread/INFO]: Leatch left the game
+[22:08:59] [User Authenticator #14/INFO]: UUID of player Leatch is 377b93ce-e63e-431c-9587-0a24cacc275e
+[22:08:59] [Server thread/INFO]: Leatch[/127.0.0.1:57375] logged in with entity id 473727 at (50.50765885679226, 79.0, 221.0963979540917)
+[22:08:59] [Server thread/INFO]: Leatch joined the game
+[23:02:01] [Server thread/INFO]: Leatch lost connection: Disconnected
+[23:02:01] [Server thread/INFO]: Leatch left the game
+[23:02:26] [User Authenticator #15/INFO]: UUID of player Leatch is 377b93ce-e63e-431c-9587-0a24cacc275e
+[23:02:26] [Server thread/INFO]: Leatch[/127.0.0.1:57540] logged in with entity id 551438 at (263.44515706288354, 87.0, 59.20727252696087)
+[23:02:26] [Server thread/INFO]: Leatch joined the game
+[23:31:00] [Server thread/INFO]: Berserk1337 lost connection: Disconnected
+[23:31:00] [Server thread/INFO]: Berserk1337 left the game
+[23:35:42] [Server thread/INFO]: Leatch lost connection: Disconnected
+[23:35:42] [Server thread/INFO]: Leatch left the game
+[23:35:50] [Server thread/INFO]: Stopping the server
+[23:35:51] [Server thread/INFO]: Stopping server
+[23:35:51] [Server thread/INFO]: Saving players
+[23:35:51] [Server thread/INFO]: Saving worlds
+[23:35:51] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[23:35:51] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[23:35:51] [Server thread/INFO]: Saving chunks for level 'world'/Storage Cell
+[23:35:51] [Server Shutdown Thread/INFO]: Stopping server
+[23:35:51] [Server Shutdown Thread/INFO]: Saving players
+[23:35:51] [Server Shutdown Thread/INFO]: Saving worlds

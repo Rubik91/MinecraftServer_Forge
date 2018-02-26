@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2018-02-26 13:00:31 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2018-02-25 23:17:20 +0100"
@@ -209,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2018-02-26 14:15:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2018-02-26 01:16:08 +0100"
@@ -223,8 +235,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2018-02-26 14:12:17 +0100",
       "cooked_mutton": "2018-02-26 00:11:30 +0100",
-      "apple": "2018-02-25 23:42:26 +0100"
+      "apple": "2018-02-25 23:42:26 +0100",
+      "bread": "2018-02-26 13:49:18 +0100"
     },
     "done": false
   },
@@ -685,6 +699,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2018-02-26 14:20:58 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2018-02-25 23:17:23 +0100"
@@ -1019,6 +1039,7 @@
     "criteria": {
       "forest": "2018-02-25 23:14:42 +0100",
       "extreme_hills_with_trees": "2018-02-25 23:25:02 +0100",
+      "forest_hills": "2018-02-26 13:58:11 +0100",
       "plains": "2018-02-25 23:23:49 +0100",
       "extreme_hills": "2018-02-25 23:24:02 +0100",
       "river": "2018-02-26 00:20:09 +0100"
@@ -1052,6 +1073,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2018-02-25 23:31:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2018-02-26 14:18:02 +0100"
     },
     "done": true
   },

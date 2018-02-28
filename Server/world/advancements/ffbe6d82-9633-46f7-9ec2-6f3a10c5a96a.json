@@ -53,6 +53,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2018-02-28 17:38:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_the_recipe": "2018-02-28 17:24:41 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2018-02-25 23:46:20 +0100"
@@ -80,6 +92,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-02-25 23:46:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-02-28 17:38:44 +0100"
     },
     "done": true
   },
@@ -272,8 +290,11 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2018-02-25 23:47:54 +0100",
+      "cooked_mutton": "2018-02-28 17:56:07 +0100",
       "baked_potato": "2018-02-27 18:54:12 +0100",
-      "golden_apple": "2018-02-27 17:40:38 +0100"
+      "golden_apple": "2018-02-27 17:40:38 +0100",
+      "bread": "2018-02-28 19:02:03 +0100",
+      "carrot": "2018-02-28 18:06:49 +0100"
     },
     "done": false
   },
@@ -379,6 +400,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2018-02-28 17:24:41 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2018-02-25 23:46:34 +0100"
@@ -433,9 +460,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_pig": "2018-02-28 18:06:50 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2018-02-25 23:46:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2018-02-28 18:15:49 +0100"
     },
     "done": true
   },
@@ -670,6 +709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2018-02-28 17:38:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2018-02-26 00:52:25 +0100"
@@ -741,9 +786,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2018-02-28 17:38:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2018-02-25 23:46:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2018-02-28 19:04:59 +0100"
     },
     "done": true
   },
@@ -792,6 +849,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2018-02-27 19:07:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2018-02-28 19:04:59 +0100"
     },
     "done": true
   },
@@ -852,6 +915,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2018-02-26 00:25:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2018-02-28 18:15:49 +0100"
     },
     "done": true
   },
@@ -1104,6 +1173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2018-02-28 17:52:25 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2018-02-26 18:29:29 +0100"
@@ -1125,6 +1200,18 @@
   "appliedenergistics2:main/presses": {
     "criteria": {
       "silicon": "2018-02-27 17:19:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wooden_slab": {
+    "criteria": {
+      "has_planks": "2018-02-28 17:38:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-02-28 19:04:59 +0100"
     },
     "done": true
   },
@@ -1223,6 +1310,7 @@
       "forest": "2018-02-26 00:57:56 +0100",
       "extreme_hills_with_trees": "2018-02-27 18:53:17 +0100",
       "plains": "2018-02-25 23:48:42 +0100",
+      "taiga": "2018-02-28 18:13:56 +0100",
       "extreme_hills": "2018-02-25 23:46:20 +0100",
       "river": "2018-02-26 19:49:26 +0100"
     },
@@ -1237,6 +1325,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-02-27 18:53:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2018-02-28 19:04:59 +0100"
     },
     "done": true
   },
@@ -1312,6 +1406,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2018-02-28 19:04:59 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2018-02-25 23:46:20 +0100"
@@ -1375,6 +1475,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2018-02-25 23:46:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_pig": "2018-02-28 18:06:50 +0100"
     },
     "done": true
   },

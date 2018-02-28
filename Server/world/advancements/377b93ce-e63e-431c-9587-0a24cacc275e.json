@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2018-02-28 17:53:50 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2018-02-27 11:31:35 +0100"
@@ -293,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log2": "2018-02-28 20:58:05 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2018-02-27 18:13:27 +0100"
@@ -309,6 +321,7 @@
     "criteria": {
       "cooked_porkchop": "2018-02-26 20:50:58 +0100",
       "cooked_mutton": "2018-02-26 00:23:10 +0100",
+      "baked_potato": "2018-02-28 23:00:41 +0100",
       "apple": "2018-02-26 01:50:13 +0100",
       "bread": "2018-02-26 19:16:55 +0100",
       "cooked_chicken": "2018-02-26 21:27:36 +0100"
@@ -318,6 +331,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2018-02-26 00:20:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2018-02-28 21:22:27 +0100"
     },
     "done": true
   },
@@ -751,6 +770,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2018-02-28 18:15:23 +0100",
       "skeleton": "2018-02-26 18:31:49 +0100",
       "zombie": "2018-02-26 02:47:02 +0100",
       "spider": "2018-02-26 19:04:15 +0100",
@@ -824,6 +844,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_the_recipe": "2018-02-28 18:15:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2018-02-26 21:35:52 +0100"
@@ -845,6 +871,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2018-02-26 00:29:26 +0100"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/compass": {
+    "criteria": {
+      "compass": "2018-02-28 18:54:47 +0100"
     },
     "done": true
   },
@@ -920,6 +952,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_lapis": "2018-02-28 18:15:37 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2018-02-26 17:55:43 +0100"
@@ -959,6 +997,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2018-02-27 22:18:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lapis_red_pink": {
+    "criteria": {
+      "has_lapis": "2018-02-28 18:15:37 +0100"
     },
     "done": true
   },
@@ -1037,6 +1081,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2018-02-26 20:48:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2018-02-28 17:52:23 +0100"
     },
     "done": true
   },
@@ -1232,6 +1282,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/presses": {
+    "criteria": {
+      "calc": "2018-02-28 19:06:45 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2018-02-25 23:23:06 +0100"
@@ -1241,6 +1297,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2018-02-25 23:21:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2018-02-28 17:52:23 +0100"
     },
     "done": true
   },
@@ -1332,12 +1394,15 @@
     "criteria": {
       "forest": "2018-02-25 23:14:39 +0100",
       "birch_forest": "2018-02-26 01:14:32 +0100",
+      "swampland": "2018-02-28 21:00:07 +0100",
       "extreme_hills_with_trees": "2018-02-25 23:51:48 +0100",
       "forest_hills": "2018-02-25 23:32:05 +0100",
       "plains": "2018-02-25 23:25:08 +0100",
       "taiga": "2018-02-25 23:26:24 +0100",
+      "taiga_hills": "2018-02-28 20:51:55 +0100",
       "birch_forest_hills": "2018-02-26 01:15:22 +0100",
       "extreme_hills": "2018-02-25 23:25:32 +0100",
+      "roofed_forest": "2018-02-28 20:57:49 +0100",
       "river": "2018-02-25 23:23:15 +0100"
     },
     "done": false
@@ -1390,6 +1455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2018-02-28 21:22:27 +0100"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2018-02-26 18:18:29 +0100"
@@ -1402,9 +1473,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2018-02-28 17:52:23 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2018-02-25 23:15:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_lapis": "2018-02-28 18:15:37 +0100"
     },
     "done": true
   },
@@ -1462,6 +1545,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/fluix": {
+    "criteria": {
+      "certus": "2018-02-28 18:10:06 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2018-02-26 17:34:34 +0100"
@@ -1471,6 +1560,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-02-26 21:35:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2018-02-28 18:15:44 +0100"
     },
     "done": true
   },
@@ -1489,6 +1584,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2018-02-27 17:28:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2018-02-28 17:52:23 +0100"
     },
     "done": true
   },

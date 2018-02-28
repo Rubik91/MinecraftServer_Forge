@@ -1,40 +1,11 @@
-[11:28:06] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[11:28:06] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Das Handle ist ungültig
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_151]
-	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_151]
-	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_151]
-	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_151]
-	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_151]
-	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_151]
-	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_151]
-	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_151]
-	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_151]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_151]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_151]
-	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:105) [nz$2.class:?]
-[11:28:18] [Server thread/INFO]: Loading properties
-[11:28:18] [Server thread/INFO]: Default game type: SURVIVAL
-[11:28:18] [Server thread/INFO]: Generating keypair
-[11:28:18] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:28:18] [Server thread/INFO]: Using default channel type
-[11:28:24] [Server thread/INFO]: Preparing level "world"
-[11:28:25] [Server thread/INFO]: Loaded 559 advancements
-[11:28:25] [Server thread/INFO]: Preparing start region for level 0
-[11:28:26] [Server thread/INFO]: Preparing spawn area: 4%
-[11:28:27] [Server thread/INFO]: Preparing spawn area: 62%
-[11:28:27] [Server thread/INFO]: Done (3,789s)! For help, type "help" or "?"
-[11:29:28] [User Authenticator #1/INFO]: UUID of player Leatch is 377b93ce-e63e-431c-9587-0a24cacc275e
-[11:29:30] [Server thread/INFO]: Leatch[/127.0.0.1:60428] logged in with entity id 339 at (53.78374342459303, 79.0, 218.47295201140957)
-[11:29:30] [Server thread/INFO]: Leatch joined the game
-[11:32:07] [Server thread/INFO]: Leatch lost connection: Disconnected
-[11:32:07] [Server thread/INFO]: Leatch left the game
-[11:32:13] [Server thread/INFO]: Stopping the server
-[11:32:13] [Server thread/INFO]: Stopping server
-[11:32:13] [Server thread/INFO]: Saving players
-[11:32:13] [Server thread/INFO]: Saving worlds
-[11:32:13] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[11:32:13] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[11:32:13] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[11:32:13] [Server thread/INFO]: Saving chunks for level 'world'/Storage Cell
-[11:32:13] [Server Shutdown Thread/INFO]: Stopping server
+[07:20:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 20062236ms behind, skipping 401244 tick(s)
+[07:20:53] [Server thread/INFO]: Stopping the server
+[07:20:53] [Server thread/INFO]: Stopping server
+[07:20:53] [Server thread/INFO]: Saving players
+[07:20:53] [Server thread/INFO]: Saving worlds
+[07:20:53] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[07:20:53] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[07:20:53] [Server thread/INFO]: Saving chunks for level 'world'/Storage Cell
+[07:20:53] [Server Shutdown Thread/INFO]: Stopping server
+[07:20:53] [Server Shutdown Thread/INFO]: Saving players
+[07:20:53] [Server Shutdown Thread/INFO]: Saving worlds

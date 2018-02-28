@@ -1,11 +1,83 @@
-[07:20:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 20062236ms behind, skipping 401244 tick(s)
-[07:20:53] [Server thread/INFO]: Stopping the server
-[07:20:53] [Server thread/INFO]: Stopping server
-[07:20:53] [Server thread/INFO]: Saving players
-[07:20:53] [Server thread/INFO]: Saving worlds
-[07:20:53] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[07:20:53] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[07:20:53] [Server thread/INFO]: Saving chunks for level 'world'/Storage Cell
-[07:20:53] [Server Shutdown Thread/INFO]: Stopping server
-[07:20:53] [Server Shutdown Thread/INFO]: Saving players
-[07:20:53] [Server Shutdown Thread/INFO]: Saving worlds
+[16:37:08] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[16:37:08] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Das Handle ist ungültig
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_161]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_161]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_161]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_161]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_161]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_161]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_161]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_161]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_161]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_161]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_161]
+	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:105) [nz$2.class:?]
+[16:37:34] [Server thread/INFO]: Loading properties
+[16:37:34] [Server thread/INFO]: Default game type: SURVIVAL
+[16:37:34] [Server thread/INFO]: Generating keypair
+[16:37:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:37:34] [Server thread/INFO]: Using default channel type
+[16:37:51] [Server thread/INFO]: Preparing level "world"
+[16:37:57] [Server thread/INFO]: Loaded 559 advancements
+[16:38:05] [Server thread/INFO]: Preparing start region for level 0
+[16:38:06] [Server thread/INFO]: Preparing spawn area: 3%
+[16:38:07] [Server thread/INFO]: Preparing spawn area: 24%
+[16:38:08] [Server thread/INFO]: Preparing spawn area: 57%
+[16:38:09] [Server thread/INFO]: Preparing spawn area: 85%
+[16:38:10] [Server thread/INFO]: Preparing spawn area: 87%
+[16:38:10] [Server thread/INFO]: Done (19,478s)! For help, type "help" or "?"
+[16:38:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3644ms behind, skipping 72 tick(s)
+[16:38:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2973ms behind, skipping 59 tick(s)
+[16:39:21] [User Authenticator #1/INFO]: UUID of player TromDrop is ffbe6d82-9633-46f7-9ec2-6f3a10c5a96a
+[16:39:24] [Server thread/INFO]: TromDrop[/25.92.198.51:62081] logged in with entity id 294 at (125.23750001192093, 71.0, 99.69999998807907)
+[16:39:24] [Server thread/INFO]: TromDrop joined the game
+[16:39:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14434ms behind, skipping 288 tick(s)
+[16:39:44] [Server thread/INFO]: TromDrop lost connection: Timed out
+[16:39:44] [Server thread/INFO]: TromDrop left the game
+[16:39:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3730ms behind, skipping 74 tick(s)
+[16:39:58] [User Authenticator #2/INFO]: UUID of player TromDrop is ffbe6d82-9633-46f7-9ec2-6f3a10c5a96a
+[16:40:01] [Server thread/INFO]: TromDrop[/25.92.198.51:62087] logged in with entity id 874 at (125.23750001192093, 71.0, 99.69999998807907)
+[16:40:01] [Server thread/INFO]: TromDrop joined the game
+[16:41:17] [Server thread/INFO]: TromDrop has made the advancement [Shocking]
+[16:42:05] [Server thread/INFO]: [TromDrop: Set own game mode to Creative Mode]
+[16:42:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2517ms behind, skipping 50 tick(s)
+[16:42:10] [Server thread/INFO]: [TromDrop: Set own game mode to Survival Mode]
+[16:43:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2085ms behind, skipping 41 tick(s)
+[16:47:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2212ms behind, skipping 44 tick(s)
+[16:49:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2453ms behind, skipping 49 tick(s)
+[16:52:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2464ms behind, skipping 49 tick(s)
+[16:53:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2446ms behind, skipping 48 tick(s)
+[16:53:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3474ms behind, skipping 69 tick(s)
+[16:55:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2220ms behind, skipping 44 tick(s)
+[16:58:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2001ms behind, skipping 40 tick(s)
+[16:59:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2012ms behind, skipping 40 tick(s)
+[17:00:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2674ms behind, skipping 53 tick(s)
+[17:02:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3000ms behind, skipping 60 tick(s)
+[17:02:56] [User Authenticator #3/INFO]: UUID of player Leatch is 377b93ce-e63e-431c-9587-0a24cacc275e
+[17:02:58] [Server thread/INFO]: Leatch[/25.69.116.75:65441] logged in with entity id 33532 at (50.839703997167604, 79.0, 216.4340379592966)
+[17:02:58] [Server thread/INFO]: Leatch joined the game
+[17:03:09] [Server thread/INFO]: <Leatch> hallo marvin
+[17:03:12] [Server thread/INFO]: <TromDrop> hi
+[17:03:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2074ms behind, skipping 41 tick(s)
+[17:03:38] [Server thread/INFO]: <Leatch> was geht ab?
+[17:03:58] [Server thread/INFO]: <TromDrop> nich viel bissel chillen hier^^^
+[17:04:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3472ms behind, skipping 69 tick(s)
+[17:04:15] [Server thread/INFO]: <Leatch> soso will mir jetzt mal elektronik artikel basteln xD
+[17:04:56] [Server thread/INFO]: <TromDrop> kannst du den server auf machen?
+[17:05:05] [Server thread/INFO]: <Leatch> ich wollte gerade fragen
+[17:05:05] [Server thread/INFO]: <TromDrop> habe ruber banding ohne ende
+[17:05:11] [Server thread/INFO]: <Leatch> mach ich wohl ja
+[17:05:14] [Server thread/INFO]: TromDrop lost connection: Disconnected
+[17:05:14] [Server thread/INFO]: TromDrop left the game
+[17:05:19] [Server thread/INFO]: Leatch lost connection: Disconnected
+[17:05:19] [Server thread/INFO]: Leatch left the game
+[17:05:19] [Server thread/INFO]: Stopping the server
+[17:05:19] [Server thread/INFO]: Stopping server
+[17:05:20] [Server thread/INFO]: Saving players
+[17:05:20] [Server thread/INFO]: Saving worlds
+[17:05:20] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[17:05:20] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[17:05:20] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[17:05:20] [Server thread/INFO]: Saving chunks for level 'world'/Storage Cell
+[17:05:21] [Server Shutdown Thread/INFO]: Stopping server

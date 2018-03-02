@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "buildcraftenergy:engine": {
+    "criteria": {
+      "redstone_engine": "2018-03-02 17:22:03 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2018-02-27 17:22:36 +0100"
@@ -74,6 +80,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-02-26 02:51:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2018-03-02 17:52:18 +0100"
     },
     "done": true
   },
@@ -340,6 +352,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2018-03-02 17:56:57 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2018-02-27 17:22:36 +0100"
@@ -564,6 +582,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2018-03-02 17:43:02 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2018-02-26 18:15:17 +0100"
@@ -666,6 +690,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2018-03-02 18:30:31 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2018-02-26 01:38:27 +0100"
@@ -711,6 +741,12 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2018-02-26 00:03:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2018-03-02 17:59:43 +0100"
     },
     "done": true
   },
@@ -768,6 +804,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2018-03-02 17:56:57 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-02-26 21:35:52 +0100"
@@ -776,10 +818,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "wither_skeleton": "2018-03-02 17:56:30 +0100",
       "zombie_villager": "2018-02-28 18:15:23 +0100",
       "skeleton": "2018-02-26 18:31:49 +0100",
+      "blaze": "2018-03-02 17:53:50 +0100",
       "zombie": "2018-02-26 02:47:02 +0100",
       "spider": "2018-02-26 19:04:15 +0100",
+      "ghast": "2018-03-02 17:43:02 +0100",
       "creeper": "2018-02-26 17:38:14 +0100"
     },
     "done": false
@@ -970,6 +1015,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2018-03-02 17:54:28 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2018-02-26 17:55:43 +0100"
@@ -987,6 +1038,12 @@
       "has_white_wool": "2018-02-25 23:39:24 +0100"
     },
     "done": true
+  },
+  "buildcraftcore:gears": {
+    "criteria": {
+      "gear_iron": "2018-03-02 17:19:26 +0100"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
@@ -1039,6 +1096,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-02-26 21:35:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2018-03-02 17:52:22 +0100"
     },
     "done": true
   },
@@ -1366,6 +1429,18 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2018-03-02 18:30:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2018-03-02 17:54:28 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2018-02-27 18:17:41 +0100"
@@ -1396,6 +1471,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2018-03-02 17:22:03 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "zombie": "2018-02-26 02:47:02 +0100"
@@ -1411,6 +1492,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2018-03-01 11:45:17 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2018-03-02 17:54:28 +0100"
     },
     "done": true
   },
@@ -1464,6 +1551,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-02-25 23:44:04 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2018-03-02 17:52:18 +0100"
     },
     "done": true
   },
@@ -1614,6 +1707,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2018-02-28 18:15:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2018-03-02 17:52:18 +0100"
     },
     "done": true
   },

@@ -1,5 +1,5 @@
-[16:52:53] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[16:52:53] [Server console handler/ERROR]: Exception handling console input
+[19:51:56] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[19:51:56] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: Das Handle ist ungültig
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_151]
 	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_151]
@@ -13,67 +13,41 @@ java.io.IOException: Das Handle ist ungültig
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_151]
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_151]
 	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:105) [nz$2.class:?]
-[16:53:04] [Server thread/INFO]: Loading properties
-[16:53:04] [Server thread/INFO]: Default game type: SURVIVAL
-[16:53:04] [Server thread/INFO]: Generating keypair
-[16:53:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:53:04] [Server thread/INFO]: Using default channel type
-[16:53:09] [Server thread/INFO]: Preparing level "world"
-[16:53:12] [Server thread/INFO]: Loaded 559 advancements
-[16:53:14] [Server thread/INFO]: Preparing start region for level 0
-[16:53:15] [Server thread/INFO]: Preparing spawn area: 81%
-[16:53:15] [Server thread/INFO]: Done (5,661s)! For help, type "help" or "?"
-[16:58:36] [User Authenticator #1/INFO]: UUID of player Leatch is 377b93ce-e63e-431c-9587-0a24cacc275e
-[16:58:38] [Server thread/INFO]: Leatch[/127.0.0.1:58479] logged in with entity id 579 at (262.56103903044436, 75.0, 193.4020129980681)
-[16:58:38] [Server thread/INFO]: Leatch joined the game
-[16:58:46] [Server thread/INFO]: Leatch lost connection: Disconnected
-[16:58:46] [Server thread/INFO]: Leatch left the game
-[16:59:25] [User Authenticator #2/INFO]: UUID of player Leatch is 377b93ce-e63e-431c-9587-0a24cacc275e
-[16:59:25] [Server thread/INFO]: Leatch[/127.0.0.1:58497] logged in with entity id 813 at (262.56103903044436, 75.0, 193.4020129980681)
-[16:59:25] [Server thread/INFO]: Leatch joined the game
-[16:59:57] [User Authenticator #3/INFO]: UUID of player Waxaan is e267da31-dfcf-47ad-bd9d-f84e8899ea64
-[16:59:59] [Server thread/INFO]: Waxaan[/25.81.222.229:53934] logged in with entity id 1274 at (260.5140635272827, 74.0, 187.76249998807907)
-[16:59:59] [Server thread/INFO]: Waxaan joined the game
-[17:00:23] [Server thread/INFO]: Waxaan lost connection: Disconnected
-[17:00:23] [Server thread/INFO]: Waxaan left the game
-[17:00:42] [User Authenticator #4/INFO]: UUID of player Waxaan is e267da31-dfcf-47ad-bd9d-f84e8899ea64
-[17:00:44] [Server thread/INFO]: Waxaan[/25.81.222.229:53942] logged in with entity id 2071 at (268.065565538898, 74.0, 198.78947705850072)
-[17:00:44] [Server thread/INFO]: Waxaan joined the game
-[17:04:05] [Server thread/INFO]: Leatch lost connection: Disconnected
-[17:04:05] [Server thread/INFO]: Leatch left the game
-[17:15:19] [User Authenticator #5/INFO]: UUID of player Leatch is 377b93ce-e63e-431c-9587-0a24cacc275e
-[17:15:20] [Server thread/INFO]: Leatch[/127.0.0.1:58595] logged in with entity id 13814 at (51.651349119997846, 79.0, 214.29410000839374)
-[17:15:20] [Server thread/INFO]: Leatch joined the game
-[17:15:39] [Server thread/INFO]: Waxaan has made the advancement [Getting an Upgrade]
-[17:17:11] [Server thread/INFO]: Leatch lost connection: Disconnected
-[17:17:11] [Server thread/INFO]: Leatch left the game
-[17:17:42] [User Authenticator #6/INFO]: UUID of player Leatch is 377b93ce-e63e-431c-9587-0a24cacc275e
-[17:17:43] [Server thread/INFO]: Leatch[/127.0.0.1:58623] logged in with entity id 16778 at (55.38519819551687, 79.0, 211.80059257553566)
-[17:17:43] [Server thread/INFO]: Leatch joined the game
-[17:22:03] [Server thread/INFO]: Leatch has made the advancement [advancements.buildcraftcore.engine.title]
-[17:30:20] [Server thread/INFO]: <Waxaan> äü
-[17:34:06] [Server thread/WARN]: Leatch moved too quickly! -188.96665525904132,13.0,-84.52757616426636
-[17:43:02] [Server thread/INFO]: Leatch has completed the challenge [Return to Sender]
-[17:45:36] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[17:45:45] [Server thread/INFO]: Usage: /locate <feature>
-[17:46:05] [Server thread/INFO]: Unable to locate any fortress feature
-[17:52:22] [Server thread/INFO]: Leatch has made the advancement [A Terrible Fortress]
-[17:54:28] [Server thread/INFO]: Leatch has made the advancement [Into Fire]
-[18:22:57] [Server thread/WARN]: Leatch moved too quickly! 188.9158281514093,-13.0,82.70350164035274
-[18:24:40] [Server thread/INFO]: Set Leatch's game mode to Creative Mode
-[18:25:22] [Server thread/INFO]: Set Leatch's game mode to Survival Mode
-[18:30:31] [Server thread/INFO]: Leatch has made the advancement [Ice Bucket Challenge]
-[18:33:13] [Server thread/INFO]: Waxaan lost connection: Disconnected
-[18:33:13] [Server thread/INFO]: Waxaan left the game
-[18:38:08] [Server thread/INFO]: Leatch lost connection: Disconnected
-[18:38:08] [Server thread/INFO]: Leatch left the game
-[18:55:40] [Server thread/INFO]: Stopping the server
-[18:55:41] [Server thread/INFO]: Stopping server
-[18:55:41] [Server thread/INFO]: Saving players
-[18:55:41] [Server thread/INFO]: Saving worlds
-[18:55:41] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[18:55:41] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[18:55:41] [Server thread/INFO]: Saving chunks for level 'world'/Storage Cell
-[18:55:41] [Server Shutdown Thread/INFO]: Stopping server
-[18:55:41] [Server Shutdown Thread/INFO]: Saving players
-[18:55:41] [Server Shutdown Thread/INFO]: Saving worlds
+[19:52:10] [Server thread/INFO]: Loading properties
+[19:52:10] [Server thread/INFO]: Default game type: SURVIVAL
+[19:52:10] [Server thread/INFO]: Generating keypair
+[19:52:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:52:10] [Server thread/INFO]: Using default channel type
+[19:52:16] [Server thread/INFO]: Preparing level "world"
+[19:52:17] [Server thread/INFO]: Loaded 559 advancements
+[19:52:20] [Server thread/INFO]: Preparing start region for level 0
+[19:52:21] [Server thread/INFO]: Preparing spawn area: 83%
+[19:52:21] [Server thread/INFO]: Done (5,555s)! For help, type "help" or "?"
+[19:53:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@4ea1bd85[id=<null>,name=Waxaan,properties={},legacy=false] (/25.81.222.229:54566) lost connection: Disconnected
+[19:56:58] [User Authenticator #1/INFO]: UUID of player Waxaan is e267da31-dfcf-47ad-bd9d-f84e8899ea64
+[19:57:01] [Server thread/INFO]: Waxaan[/25.81.222.229:50020] logged in with entity id 541 at (260.5, 75.0, 195.5)
+[19:57:01] [Server thread/INFO]: Waxaan joined the game
+[19:59:14] [Server thread/INFO]: Waxaan has made the advancement [The Parrots and the Bats]
+[20:08:04] [Server thread/INFO]: Waxaan lost connection: Disconnected
+[20:08:04] [Server thread/INFO]: Waxaan left the game
+[20:11:14] [User Authenticator #2/INFO]: UUID of player Waxaan is e267da31-dfcf-47ad-bd9d-f84e8899ea64
+[20:11:16] [Server thread/INFO]: Waxaan[/25.81.222.229:50214] logged in with entity id 9324 at (260.5, 75.0, 195.5)
+[20:11:16] [Server thread/INFO]: Waxaan joined the game
+[20:19:18] [Server thread/INFO]: Waxaan lost connection: Disconnected
+[20:19:18] [Server thread/INFO]: Waxaan left the game
+[20:44:28] [User Authenticator #3/INFO]: UUID of player Waxaan is e267da31-dfcf-47ad-bd9d-f84e8899ea64
+[20:44:29] [Server thread/INFO]: Waxaan[/25.81.222.229:50332] logged in with entity id 16393 at (261.9106872100632, 72.0, 210.69954830408116)
+[20:44:29] [Server thread/INFO]: Waxaan joined the game
+[21:26:54] [Server thread/INFO]: Waxaan lost connection: Disconnected
+[21:26:55] [Server thread/INFO]: Waxaan left the game
+[21:30:38] [Server thread/INFO]: Stopping the server
+[21:30:38] [Server thread/INFO]: Stopping server
+[21:30:38] [Server thread/INFO]: Saving players
+[21:30:38] [Server thread/INFO]: Saving worlds
+[21:30:38] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[21:30:38] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[21:30:38] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[21:30:38] [Server thread/INFO]: Saving chunks for level 'world'/Storage Cell
+[21:30:38] [Server Shutdown Thread/INFO]: Stopping server
+[21:30:38] [Server Shutdown Thread/INFO]: Saving players
+[21:30:38] [Server Shutdown Thread/INFO]: Saving worlds

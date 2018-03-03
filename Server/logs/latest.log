@@ -1,53 +1,38 @@
-[19:51:56] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[19:51:56] [Server console handler/ERROR]: Exception handling console input
+[17:55:39] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[17:55:39] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: Das Handle ist ungültig
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_151]
-	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_151]
-	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_151]
-	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_151]
-	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_151]
-	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_151]
-	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_151]
-	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_151]
-	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_151]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_151]
-	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_151]
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_101]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_101]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_101]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_101]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_101]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_101]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_101]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_101]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_101]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_101]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_101]
 	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:105) [nz$2.class:?]
-[19:52:10] [Server thread/INFO]: Loading properties
-[19:52:10] [Server thread/INFO]: Default game type: SURVIVAL
-[19:52:10] [Server thread/INFO]: Generating keypair
-[19:52:10] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:52:10] [Server thread/INFO]: Using default channel type
-[19:52:16] [Server thread/INFO]: Preparing level "world"
-[19:52:17] [Server thread/INFO]: Loaded 559 advancements
-[19:52:20] [Server thread/INFO]: Preparing start region for level 0
-[19:52:21] [Server thread/INFO]: Preparing spawn area: 83%
-[19:52:21] [Server thread/INFO]: Done (5,555s)! For help, type "help" or "?"
-[19:53:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@4ea1bd85[id=<null>,name=Waxaan,properties={},legacy=false] (/25.81.222.229:54566) lost connection: Disconnected
-[19:56:58] [User Authenticator #1/INFO]: UUID of player Waxaan is e267da31-dfcf-47ad-bd9d-f84e8899ea64
-[19:57:01] [Server thread/INFO]: Waxaan[/25.81.222.229:50020] logged in with entity id 541 at (260.5, 75.0, 195.5)
-[19:57:01] [Server thread/INFO]: Waxaan joined the game
-[19:59:14] [Server thread/INFO]: Waxaan has made the advancement [The Parrots and the Bats]
-[20:08:04] [Server thread/INFO]: Waxaan lost connection: Disconnected
-[20:08:04] [Server thread/INFO]: Waxaan left the game
-[20:11:14] [User Authenticator #2/INFO]: UUID of player Waxaan is e267da31-dfcf-47ad-bd9d-f84e8899ea64
-[20:11:16] [Server thread/INFO]: Waxaan[/25.81.222.229:50214] logged in with entity id 9324 at (260.5, 75.0, 195.5)
-[20:11:16] [Server thread/INFO]: Waxaan joined the game
-[20:19:18] [Server thread/INFO]: Waxaan lost connection: Disconnected
-[20:19:18] [Server thread/INFO]: Waxaan left the game
-[20:44:28] [User Authenticator #3/INFO]: UUID of player Waxaan is e267da31-dfcf-47ad-bd9d-f84e8899ea64
-[20:44:29] [Server thread/INFO]: Waxaan[/25.81.222.229:50332] logged in with entity id 16393 at (261.9106872100632, 72.0, 210.69954830408116)
-[20:44:29] [Server thread/INFO]: Waxaan joined the game
-[21:26:54] [Server thread/INFO]: Waxaan lost connection: Disconnected
-[21:26:55] [Server thread/INFO]: Waxaan left the game
-[21:30:38] [Server thread/INFO]: Stopping the server
-[21:30:38] [Server thread/INFO]: Stopping server
-[21:30:38] [Server thread/INFO]: Saving players
-[21:30:38] [Server thread/INFO]: Saving worlds
-[21:30:38] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[21:30:38] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[21:30:38] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[21:30:38] [Server thread/INFO]: Saving chunks for level 'world'/Storage Cell
-[21:30:38] [Server Shutdown Thread/INFO]: Stopping server
-[21:30:38] [Server Shutdown Thread/INFO]: Saving players
-[21:30:38] [Server Shutdown Thread/INFO]: Saving worlds
+[17:56:14] [Server thread/INFO]: Loading properties
+[17:56:14] [Server thread/INFO]: Default game type: SURVIVAL
+[17:56:14] [Server thread/INFO]: Generating keypair
+[17:56:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:56:14] [Server thread/INFO]: Using default channel type
+[17:56:29] [Server thread/INFO]: Preparing level "world"
+[17:56:35] [Server thread/INFO]: Loaded 559 advancements
+[17:56:43] [Server thread/INFO]: Preparing start region for level 0
+[17:56:45] [Server thread/INFO]: Preparing spawn area: 37%
+[17:56:46] [Server thread/INFO]: Preparing spawn area: 86%
+[17:56:47] [Server thread/INFO]: Done (17,538s)! For help, type "help" or "?"
+[17:56:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2956ms behind, skipping 59 tick(s)
+[21:17:14] [Server thread/INFO]: Stopping the server
+[21:17:14] [Server thread/INFO]: Stopping server
+[21:17:14] [Server thread/INFO]: Saving players
+[21:17:14] [Server thread/INFO]: Saving worlds
+[21:17:14] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[21:17:15] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[21:17:15] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[21:17:15] [Server thread/INFO]: Saving chunks for level 'world'/Storage Cell
+[21:17:18] [Server Shutdown Thread/INFO]: Stopping server
+[21:17:18] [Server Shutdown Thread/INFO]: Saving players
+[21:17:18] [Server Shutdown Thread/INFO]: Saving worlds

@@ -1,5 +1,5 @@
-[10:08:20] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[10:08:20] [Server console handler/ERROR]: Exception handling console input
+[21:16:55] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[21:16:55] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: Das Handle ist ungültig
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_101]
 	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_101]
@@ -13,44 +13,64 @@ java.io.IOException: Das Handle ist ungültig
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_101]
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_101]
 	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:105) [nz$2.class:?]
-[10:08:50] [Server thread/INFO]: Loading properties
-[10:08:50] [Server thread/INFO]: Default game type: SURVIVAL
-[10:08:50] [Server thread/INFO]: Generating keypair
-[10:08:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:08:50] [Server thread/INFO]: Using default channel type
-[10:09:07] [Server thread/INFO]: Preparing level "world"
-[10:09:11] [Server thread/INFO]: Loaded 559 advancements
-[10:09:17] [Server thread/INFO]: Preparing start region for level 0
-[10:09:18] [Server thread/INFO]: Preparing spawn area: 6%
-[10:09:19] [Server thread/INFO]: Preparing spawn area: 37%
-[10:09:20] [Server thread/INFO]: Preparing spawn area: 85%
-[10:09:21] [Server thread/INFO]: Done (13,967s)! For help, type "help" or "?"
-[10:09:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4255ms behind, skipping 85 tick(s)
-[10:18:46] [User Authenticator #1/INFO]: UUID of player Waxaan is e267da31-dfcf-47ad-bd9d-f84e8899ea64
-[10:18:48] [Server thread/INFO]: Waxaan[/192.168.0.105:59501] logged in with entity id 533 at (260.5, 75.0, 195.5)
-[10:18:48] [Server thread/INFO]: Waxaan joined the game
-[10:18:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3437ms behind, skipping 68 tick(s)
-[10:40:04] [Server thread/INFO]: Waxaan lost connection: Disconnected
-[10:40:04] [Server thread/INFO]: Waxaan left the game
-[10:57:57] [User Authenticator #2/INFO]: UUID of player Waxaan is e267da31-dfcf-47ad-bd9d-f84e8899ea64
-[10:57:58] [Server thread/INFO]: Waxaan[/192.168.0.105:59899] logged in with entity id 30698 at (275.4209760819895, 70.0, 248.65069143876087)
-[10:57:58] [Server thread/INFO]: Waxaan joined the game
-[11:56:53] [Server thread/INFO]: Waxaan lost connection: Disconnected
-[11:56:53] [Server thread/INFO]: Waxaan left the game
-[12:01:35] [User Authenticator #3/INFO]: UUID of player Waxaan is e267da31-dfcf-47ad-bd9d-f84e8899ea64
-[12:01:36] [Server thread/INFO]: Waxaan[/192.168.0.105:60120] logged in with entity id 112446 at (316.5992526742735, 68.9375, 264.951125271223)
-[12:01:36] [Server thread/INFO]: Waxaan joined the game
-[12:17:11] [Server thread/INFO]: Waxaan lost connection: Disconnected
-[12:17:11] [Server thread/INFO]: Waxaan left the game
-[15:26:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 665784ms behind, skipping 13315 tick(s)
-[15:26:46] [Server thread/INFO]: Stopping the server
-[15:26:48] [Server thread/INFO]: Stopping server
-[15:26:48] [Server thread/INFO]: Saving players
-[15:26:48] [Server thread/INFO]: Saving worlds
-[15:26:48] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[15:26:49] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[15:26:49] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[15:26:49] [Server thread/INFO]: Saving chunks for level 'world'/Storage Cell
-[15:26:51] [Server Shutdown Thread/INFO]: Stopping server
-[15:26:51] [Server Shutdown Thread/INFO]: Saving players
-[15:26:51] [Server Shutdown Thread/INFO]: Saving worlds
+[21:17:27] [Server thread/INFO]: Loading properties
+[21:17:27] [Server thread/INFO]: Default game type: SURVIVAL
+[21:17:27] [Server thread/INFO]: Generating keypair
+[21:17:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:17:29] [Server thread/INFO]: Using default channel type
+[21:17:41] [Server thread/INFO]: Preparing level "world"
+[21:17:47] [Server thread/INFO]: Loaded 559 advancements
+[21:17:56] [Server thread/INFO]: Preparing start region for level 0
+[21:17:57] [Server thread/INFO]: Preparing spawn area: 5%
+[21:17:59] [Server thread/INFO]: Preparing spawn area: 37%
+[21:18:00] [Server thread/INFO]: Preparing spawn area: 82%
+[21:18:01] [Server thread/INFO]: Done (19,267s)! For help, type "help" or "?"
+[21:18:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4486ms behind, skipping 89 tick(s)
+[21:18:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2071ms behind, skipping 41 tick(s)
+[21:21:38] [User Authenticator #1/INFO]: UUID of player Waxaan is e267da31-dfcf-47ad-bd9d-f84e8899ea64
+[21:21:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3046ms behind, skipping 60 tick(s)
+[21:21:43] [Server thread/INFO]: Waxaan[/192.168.0.105:49978] logged in with entity id 358 at (258.9887297821434, 70.0, 209.2032343323012)
+[21:21:43] [Server thread/INFO]: Waxaan joined the game
+[21:21:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2381ms behind, skipping 47 tick(s)
+[21:23:05] [User Authenticator #2/INFO]: UUID of player Leatch is 377b93ce-e63e-431c-9587-0a24cacc275e
+[21:23:06] [Server thread/INFO]: Leatch[/192.168.0.102:50061] logged in with entity id 1792 at (55.14039757582549, 79.0, 211.49902817186072)
+[21:23:06] [Server thread/INFO]: Leatch joined the game
+[21:24:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3330ms behind, skipping 66 tick(s)
+[21:24:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3500ms behind, skipping 70 tick(s)
+[21:25:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3424ms behind, skipping 68 tick(s)
+[21:25:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2011ms behind, skipping 40 tick(s)
+[21:26:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2503ms behind, skipping 50 tick(s)
+[21:26:18] [Server thread/WARN]: Waxaan moved too quickly! -4.04908837832636,-2.0,-9.082167073483788
+[21:26:20] [Server thread/WARN]: Leatch moved too quickly! -188.80000001192093,13.0,-84.48472158393453
+[21:26:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2879ms behind, skipping 57 tick(s)
+[21:27:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2034ms behind, skipping 40 tick(s)
+[21:27:24] [Server thread/INFO]: Waxaan has made the advancement [We Need to Go Deeper]
+[21:27:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2224ms behind, skipping 44 tick(s)
+[21:27:25] [Server thread/WARN]: Waxaan moved too quickly! -188.80000001192093,13.0,-84.36864389797991
+[21:28:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2028ms behind, skipping 40 tick(s)
+[21:32:03] [Server thread/WARN]: Leatch moved too quickly! -3.80752472870131,0.0,-9.319665100400904
+[21:32:03] [Server thread/WARN]: Waxaan moved too quickly! -3.7449468388153946,1.0,-9.36153794458555
+[21:32:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7367ms behind, skipping 147 tick(s)
+[21:32:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3598ms behind, skipping 71 tick(s)
+[21:32:22] [Server thread/WARN]: Waxaan moved too quickly! 189.04835090888224,-13.0,81.76031824805607
+[21:33:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2534ms behind, skipping 50 tick(s)
+[21:37:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2030ms behind, skipping 40 tick(s)
+[21:41:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2494ms behind, skipping 49 tick(s)
+[21:42:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2423ms behind, skipping 48 tick(s)
+[21:44:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2068ms behind, skipping 41 tick(s)
+[21:45:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2562ms behind, skipping 51 tick(s)
+[21:46:20] [Server thread/INFO]: Leatch lost connection: Internal Exception: java.io.IOException: Eine bestehende Verbindung wurde softwaregesteuert
+durch den Hostcomputer abgebrochen
+[21:46:20] [Server thread/INFO]: Leatch left the game
+[21:47:07] [Server thread/INFO]: Waxaan lost connection: Disconnected
+[21:47:07] [Server thread/INFO]: Waxaan left the game
+[21:47:31] [Server thread/INFO]: Stopping the server
+[21:47:31] [Server thread/INFO]: Stopping server
+[21:47:31] [Server thread/INFO]: Saving players
+[21:47:31] [Server thread/INFO]: Saving worlds
+[21:47:31] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[21:47:33] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[21:47:33] [Server thread/INFO]: Saving chunks for level 'world'/Storage Cell
+[21:47:34] [Server Shutdown Thread/INFO]: Stopping server
+[21:47:34] [Server Shutdown Thread/INFO]: Saving players
+[21:47:34] [Server Shutdown Thread/INFO]: Saving worlds
